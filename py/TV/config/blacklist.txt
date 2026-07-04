@@ -333,3 +333,4 @@ uzoiczhh.live.sxmty.com:80
 english-livebkali.cgtn.com:443
 36.251.233.92:1234
 gslbflvmgsplive.miguvideo.com:80
+flv-play.clouda.com:443
