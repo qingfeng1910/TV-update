@@ -331,3 +331,5 @@ lmt.scqstv.com:80
 27.12.12.29:1234
 uzoiczhh.live.sxmty.com:80
 english-livebkali.cgtn.com:443
+36.251.233.92:1234
+gslbflvmgsplive.miguvideo.com:80
