@@ -407,10 +407,12 @@ NewTV精品体育,https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f7
 赵本山经典小品,https://goodiptv.club/douyu/9817716
 冰冰影厅,https://goodiptv.club/douyu/74374
 橙記港剧✔原,https://goodiptv.club/douyu/4549169
+热门港剧,http://www.goodiptv.club/douyu/5522351
 热门港剧,https://goodiptv.club/douyu/5522351
 神乐影院,https://goodiptv.club/douyu/85894
 星爷房✔原,https://goodiptv.club/douyu/122402
 华语影视✔原,https://goodiptv.club/douyu/3928
+邵氏影院,http://www.goodiptv.club/douyu/4246519
 邵氏影院,https://goodiptv.club/douyu/4246519
 怡宝影院,https://goodiptv.club/douyu/434971
 特辑电影,https://goodiptv.club/douyu/3637778
@@ -443,13 +445,10 @@ NewTV精品体育,https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f7
 固镇新闻综合频道,http://www.guzhenm.com:7001/hls/hd-live.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 ☘️北京市,#genre#
 北京新闻,https://ls.qingting.fm/live/339/64k.m3u8
-北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
 ☘️上海市,#genre#
 上海纪实人文,http://8.138.7.223/tv/shtv.php?id=xjs
-上海都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
 上海新闻综合,http://mgsp-cty2.live.miguvideo.com:8088/migu/kailu/xwzhhd265/54/20200407/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600697&netType=0&sid=5910022325&pid=2028597139&timestamp=20260707160216&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=651632657&ParentNodeID=-99&assertID=5910022325&client_ip=171.8.79.254&SecurityKey=20260707160216&promotionId=&mvid=5100001716&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=974b79696fe12f3032ef6841400854ee&sv=10004&ct=android
 上海第一财经,http://ls.qingting.fm/live/276.m3u8
-上海第一财经,https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 上海第一财经,http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 五星体育,http://8.138.7.223/tv/shtv.php?id=wxty
 ☘️福建省,#genre#
@@ -536,9 +535,6 @@ NewTV精品体育,https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f7
 南京教科,http://nklive.nbs.cn/hls/75b3c462-b831-4de7-a34b-5d3221db2069/index.m3u8
 南京新闻综合,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/nanjingxwzh/50/20230719/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699067&netType=0&sid=5910021863&pid=2028597139&timestamp=20260707160216&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=838109047&ParentNodeID=-99&assertID=5910021863&client_ip=171.8.79.254&SecurityKey=20260707160216&promotionId=&mvid=5900006203&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=a68561688282ce4ef0c2737581a945d9&sv=10004&ct=android
 南京新闻综合,http://nklive.nbs.cn/hls/d511bc9d-a694-4453-b3a2-4fc842cc97a1/index.m3u8
-句容党建,http://jrlive.jrntv.com/live/_definst_/dangjians/playlist.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-句容影院,http://jrlive.jrntv.com/live/_definst_/yingshis/chunklist_w1994429382.m3u8?zjiangsd
-句容生活,http://jrlive.jrntv.com/live/_definst_/shenghuos/playlist.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 徐州新闻综合,http://mgsp-cty2.live.miguvideo.com:8088/wd_r2/jstv/xzxinwenzonghe/600/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699067&netType=0&sid=5500469368&pid=2028597139&timestamp=20260707160219&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=639731747&ParentNodeID=-99&assertID=5500469368&client_ip=171.8.79.254&SecurityKey=20260707160219&promotionId=&mvid=5102012620&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=25fe0b6308bd70b5e7cb3f433426ed6f&sv=10004&ct=android
 新沂新闻,http://live.xysrmt.cn/xwzh/sd/live.m3u8?zjiangsd"
 新沂生活,http://live.xysrmt.cn/shpd/sd/live.m3u8?zjiangsd
@@ -565,6 +561,7 @@ NewTV精品体育,https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f7
 武进新闻,https://live.wjyanghu.com/live/CH1.m3u8
 武进生活,http://live.wjyanghu.com/live/CH2.m3u8
 涟水电视台综合,http://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8?zjiangsd
+滨海新闻综合,http://traffic.jbh.tjbh.com/live/bhtv10/playlist.m3u8
 盐城-1,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/ycxwzh/51/20250604/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699067&netType=0&sid=5500469360&pid=2028597139&timestamp=20260707160218&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=639731825&ParentNodeID=-99&assertID=5500469360&client_ip=171.8.79.254&SecurityKey=20260707160218&promotionId=&mvid=5102012617&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=e500aacb7e03016f97a59c0ad599b6f9&sv=10004&ct=android
 苏州文化生活,https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
 苏州新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
@@ -682,8 +679,6 @@ YMG新闻频道,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
 ☘️贵州省,#genre#
 安顺新闻,https://ls.qingting.fm/live/5022203/64k.m3u8
 ☘️甘肃省,#genre#
-甘肃经济,https://satellitepull.cnr.cn/live/wxgshhzs/playlist.m3u8
-甘肃都市,https://satellitepull.cnr.cn/live/wxgsdstb/playlist.m3u8
 嘉峪关综合,http://play.kankanlive.com/live/1720583434627241.m3u8
 张掖新闻综合,https://play.kankanlive.com/live/1720583434627241.m3u8
 永昌综合,https://play.kankanlive.com/live/1652755738635915.m3u8
@@ -699,7 +694,6 @@ YMG新闻频道,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
 延边卫视,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 延边卫视,http://222.90.21.30:9901/hls/67/index.m3u8
 延边卫视,http://204.12.221.218:8181/3m1080p/ybws.m3u8
-吉林乡村,https://satellitepull.cnr.cn/live/wxjlxcgb/playlist.m3u8
 德惠综合,http://stream11.jlntv.cn/dehuitv/sd/live.m3u8
 九台综合,http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8
 长白朝语,http://hplayer1.juyun.tv:80/camera/11344136.m3u8
@@ -797,8 +791,6 @@ TVB翡翠台,http://r.jdshipin.com/GeWKr
 TVB翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 TVB翡翠台,http://push.cdn1.hls123.de:8080/streams/ef5addc0849/index.m3u8
 TVB翡翠台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=53
-TVB翡翠台,http://124.244.129.167:9004/0.ts
-TVB翡翠台,http://qingyi.7766.org:9004/0.ts
 翡翠台北美版,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j1
 TVB明珠台,http://r.jdshipin.com/jUx8K
 TVB明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
@@ -946,8 +938,8 @@ WTT 孙颖莎女单夺冠 松岛辉空问鼎男单 【女双决赛】王曼昱/�
 WTT 孙颖莎女单夺冠 松岛辉空问鼎男单 【混双决赛】林仲勋/申裕斌3-2王楚钦/孙颖莎 10:00,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/626/413/5106626413/media/5106626413_5338845875_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701805598&pid=2028593549&timestamp=20260707160227&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965952156&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701805598&client_ip=171.8.79.254&SecurityKey=20260707160227&promotionId=&mvid=5106626413&mcid=1003&mpid=120000580362&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=1&encrypt=aa9ef97770af9a762194d2475da3f1a2&sv=10004&ct=android
 WTT 孙颖莎女单夺冠 松岛辉空问鼎男单 【男双决赛】林诗栋/黄友政2-3温瑞博/袁励岑 10:00,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/627/200/5106627200/media/5106627200_5338902952_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806485&pid=2028593549&timestamp=20260707140218&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965986579&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701806485&client_ip=171.8.79.254&SecurityKey=20260707140218&promotionId=&mvid=5106627200&mcid=1003&mpid=120000580364&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=1&encrypt=fe6a62c16f1740140fae416121fa97a7&sv=10004&ct=android
 【周星驰】搞笑电影,https://live.ottiptv.cc/yy/38670875
-七龙珠,https://live.metshop.top/huya/11601966
 七龙珠,https://live.ottiptv.cc/huya/11601966
+七龙珠,https://live.metshop.top/huya/11601966
 万事通熊猫,https://live.ottiptv.cc/douyu/7812810
 万合出品,https://goodiptv.club/douyu/9220456
 三国演义,https://live.ottiptv.cc/huya/11602081
@@ -972,8 +964,8 @@ WTT 孙颖莎女单夺冠 松岛辉空问鼎男单 【男双决赛】林诗栋/�
 世界杯 葡萄牙VS西班牙 全场回放（胡小凡、兰子非） 02:30,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/628/852/5106628852/media/5106628852_5338991271_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701807741&pid=2028597139&timestamp=20260707160233&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966028371&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701807741&client_ip=171.8.79.254&SecurityKey=20260707160233&promotionId=&mvid=5106628852&mcid=1003&mpid=120000575606&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d7712c1a88a3d4db48080624ab25337e&sv=10004&ct=android
 世界杯 葡萄牙VS西班牙 全场回放（詹俊、张路、孙继海、邵凌霄） 02:30,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/628/850/5106628850/media/5106628850_5338991985_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701807780&pid=2028597139&timestamp=20260707160233&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966028607&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701807780&client_ip=171.8.79.254&SecurityKey=20260707160233&promotionId=&mvid=5106628850&mcid=1003&mpid=120000575606&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=0200158808b95de982ff344680965d84&sv=10004&ct=android
 世界杯 葡萄牙VS西班牙 全场回放（陈渤胄） 02:30,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/628/854/5106628854/media/5106628854_5338991418_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701807757&pid=2028597139&timestamp=20260707160234&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966028417&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701807757&client_ip=171.8.79.254&SecurityKey=20260707160234&promotionId=&mvid=5106628854&mcid=1003&mpid=120000575606&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=2578954b36cfa20b008419b56dd483a8&sv=10004&ct=android
-中华小当家,https://live.metshop.top/huya/11342413
 中华小当家,https://live.ottiptv.cc/huya/11342413
+中华小当家,https://live.metshop.top/huya/11342413
 中华特产,http://120.76.248.139/live/bfgd/4200000158.m3u8
 中国围棋协会系列赛事 第三届晋城全国职业围棋公开赛 第三届晋城全国职业围棋公开赛决赛全场回放（官方解说） 14:30,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/627/904/5106627904/media/5106627904_5338978632_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701807495&pid=2028597139&timestamp=20260707160230&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966021759&ParentNodeID=-99&assertID=5701807495&client_ip=171.8.79.254&SecurityKey=20260707160230&promotionId=&mvid=5106627904&mcid=1003&mpid=120000582159&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=4e544e296973fb44df1a176d92897fd6&sv=10004&ct=android
 中国村庄,http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/93fc12dbf14241c18c23da104fbade23/4000.m3u8
@@ -1017,6 +1009,7 @@ WTT 孙颖莎女单夺冠 松岛辉空问鼎男单 【男双决赛】林诗栋/�
 八里沟风景区桃花湾瀑布,https://gcalic.v.myalicdn.com/gc/blg05_1/index.m3u8
 六盘山红军长征景区,https://gcalic.v.myalicdn.com/gc/lpsgmjng01_1/index.m3u8
 兵团五师双河影,https://liveout.btzx.com.cn/62ds9e/6o77s4.m3u8?zxinjd
+冰冰影剧,http://www.goodiptv.club/douyu/74374
 凤凰中文高清,http://cdn6.163189.xyz/163189/fhzw
 凤凰卫视台,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰古城东关门,https://gcalic.v.myalicdn.com/gc/fhgcdgm_1/index.m3u8
@@ -1025,9 +1018,11 @@ WTT 孙颖莎女单夺冠 松岛辉空问鼎男单 【男双决赛】林诗栋/�
 凤凰资讯高清,http://cdn6.163189.xyz/163189/fhzx
 凤凰香港高清,http://cdn6.163189.xyz/163189/fhhk
 刘哔电影,https://live.ottiptv.cc/douyu/2632223
+华语影视,http://www.goodiptv.club/douyu/3928
 南京玄武湖公园,https://gcalic.v.myalicdn.com/gc/xwh01_1/index.m3u8
 厦门鼓浪屿,https://gcalic.v.myalicdn.com/gc/gly01_1/index.m3u8
 古惑仔,https://live.ottiptv.cc/yy/1458015189
+古装武侠,http://www.goodiptv.club/douyu/2793084
 名侦探柯南,https://live.ottiptv.cc/huya/30080236
 周星驰的直播间,https://live.ottiptv.cc/douyu/8257039
 和美乡途轮播台,http://mgsp-cty2.live.miguvideo.com:8088/migu/virtuallive2/5900002411/51/20210706/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5910019525&pid=2028597139&timestamp=20260707160223&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=713591450&ParentNodeID=-99&assertID=5910019525&client_ip=171.8.79.254&SecurityKey=20260707160223&promotionId=&mvid=5900002421&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=8db5843968917a497a8afbed14152790&sv=10004&ct=android
@@ -1088,6 +1083,7 @@ WTT 孙颖莎女单夺冠 松岛辉空问鼎男单 【男双决赛】林诗栋/�
 拆弹专家1,https://vip.ffzy-online.com/20221015/719_80ff87c2/index.m3u8
 拆弹专家2,https://vip.ffzy-online.com/20221015/722_e32c42bc/index.m3u8
 支持作者,https://vd2.bdstatic.com/mda-sctj0f6r4u1bpebc/1080p/cae_h264/1774706523506678171/mda-sctj0f6r4u1bpebc.mp4
+斗鱼港剧,http://www.goodiptv.club/douyu/5061550
 新三国,https://live.ottiptv.cc/huya/11352944
 新三国（斗鱼）,https://goodiptv.club/douyu/5908256
 新橙記Orange丶,https://live.ottiptv.cc/huya/30590779
@@ -1120,6 +1116,7 @@ WTT 孙颖莎女单夺冠 松岛辉空问鼎男单 【男双决赛】林诗栋/�
 梦中的那片海,https://live.ottiptv.cc/huya/26355765
 梨园,https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=41543190cdf375f1c73207222bb96542&wsTime=1769313549
 橙記Orange丶,https://live.ottiptv.cc/douyu/4549169
+橙记港剧,http://www.goodiptv.club/douyu/4549169
 欢乐颂,https://live.ottiptv.cc/yy/1382735624
 武林萌主唐小姐,https://live.ottiptv.cc/huya/11336726
 永夜星河,https://live.ottiptv.cc/huya/23734169
@@ -1227,6 +1224,7 @@ WTT 孙颖莎女单夺冠 松岛辉空问鼎男单 【男双决赛】林诗栋/�
 精彩短剧看不停,https://goodiptv.club/douyu/11824307
 精灵宝可梦,https://live.ottiptv.cc/huya/23749096
 经典,https://goodiptv.club/douyu/6091425
+经典剧集,http://www.goodiptv.club/douyu/6863367
 经典小品,https://goodiptv.club/douyu/9067836
 经典电影重温,https://live.ottiptv.cc/yy/1382793140
 翡翠台4K,http://cdn6.163189.xyz/163189/fct4k
@@ -1239,6 +1237,8 @@ WTT 孙颖莎女单夺冠 松岛辉空问鼎男单 【男双决赛】林诗栋/�
 苹果Zei甜,https://live.ottiptv.cc/douyu/1174353
 蓝翔新三国,https://live.ottiptv.cc/huya/15396432
 蓝翔新三国,https://live.ottiptv.cc/douyu/5908256
+西游记续集,http://www.goodiptv.club/douyu/3113309
+贝爷求生,http://www.goodiptv.club/douyu/9661369
 贝爷求生影视,https://live.ottiptv.cc/douyu/9661369
 财富天下,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cftx/51/20250804/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600697&netType=0&sid=5910022193&pid=2028597139&timestamp=20260707160220&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=956923159&ParentNodeID=-99&assertID=5910022193&client_ip=171.8.79.254&SecurityKey=20260707160220&promotionId=&mvid=5900006715&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=476ed9dffed5656782e8a6473875d013&sv=10004&ct=android
 贵州村超 场坝龙泉井村队VS大利村 赛场原声 19:00,http://flvctypull2mgsplive.miguvideo.com:80/mglive/mgss281_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510506841&pid=2028597139&timestamp=20260707160240&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966020077&ParentNodeID=-99&assertID=7510506841&client_ip=171.8.79.254&SecurityKey=20260707160240&promotionId=&mvid=7510253086&mcid=500020&mpid=120000582375&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=58e911d40ab9dbc8c45c992801eb14ce&sv=10004&ct=android
@@ -1258,7 +1258,6 @@ WTT 孙颖莎女单夺冠 松岛辉空问鼎男单 【男双决赛】林诗栋/�
 青岛崂山八水河,https://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8
 青岛崂山双福,https://gcalic.v.myalicdn.com/gc/qdls03_1/index.m3u8
 青海卫视-,http://60.10.139.113:8801/hls/56/index.m3u8
-音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 飞碟之谜01,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/f0a47e155d32450daa1d36a04fd7d262/2000.m3u8
 飞碟之谜02,https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d2454bbb542d4613a9db478dab2addfd/2000.m3u8
 鬼吹灯之云南虫谷,https://live.ottiptv.cc/huya/11352898
