@@ -139,3 +139,5 @@ hlszymgspvod.miguvideo.com
 live.hyxrmt.com
 file.ysxtv.cn
 218.13.170.98
+119.39.9.8
+119.98.182.144
