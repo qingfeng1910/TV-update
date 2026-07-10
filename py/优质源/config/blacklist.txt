@@ -150,3 +150,7 @@ cdn9.163189.xyz
 116.52.173.34
 123.163.114.168
 channel.wcrmt.cn
+8.138.7.223
+event.pull.hebtv.com
+hslive.hsnewsnet.com
+183.129.255.66
