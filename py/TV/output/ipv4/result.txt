@@ -352,26 +352,32 @@ CHC家庭影院,http://107.150.60.122/live/chcjt.m3u8
 环球旅游,http://120.76.248.139/live/bfgd/4200000147.m3u8
 人与自然,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1425e1d505654cb48ba82b807b221193/1200.m3u8
 ☘️轮播,#genre#
+末日电影合集,https://live.ottiptv.cc/yy/1354889019
+周星驰,https://live.ottiptv.cc/huya/11342412
 赵本山经典小品,https://goodiptv.club/douyu/9817716
 冰冰影厅,https://goodiptv.club/douyu/74374
-刀刀影院,http://www.goodiptv.club/douyu/747764
 橙記港剧✔原,https://goodiptv.club/douyu/4549169
 热门港剧,https://goodiptv.club/douyu/5522351
-热门港剧,http://www.goodiptv.club/douyu/5522351
 神乐影院,https://goodiptv.club/douyu/85894
 星爷房✔原,https://goodiptv.club/douyu/122402
 华语影视✔原,https://goodiptv.club/douyu/3928
 邵氏影院,https://goodiptv.club/douyu/4246519
-邵氏影院,http://www.goodiptv.club/douyu/4246519
 怡宝影院,https://goodiptv.club/douyu/434971
 特辑电影,https://goodiptv.club/douyu/3637778
 贝爷贰厅,https://goodiptv.club/douyu/4332
 可乐影院,https://goodiptv.club/douyu/20415
+网神影厅,https://live.ottiptv.cc/douyu/508118
 网神影厅,https://goodiptv.club/douyu/508118
 贝贝影院,https://goodiptv.club/douyu/431460
 漫画解说,https://www.goodiptv.club/douyu/5907076
+鬼片喜剧动作港剧,https://live.ottiptv.cc/yy/1355269576
+西游记后传,https://live.ottiptv.cc/yy/1353392400
+新水浒传,https://live.ottiptv.cc/huya/11342384
+新白娘子传奇,https://live.ottiptv.cc/yy/1354490667
+天龙八部,https://live.ottiptv.cc/yy/1351814644
 让子弹飞,https://vip.ffzy-play7.com/20230116/11563_b9f44814/index.m3u8
 龙门飞甲,http://jsmov2.a.yximgs.com/bs3/video-hls/5203346449046555193_hlsb.m3u8
+谈判专家,https://live.ottiptv.cc/yy/1382735560
 ☘️安徽省,#genre#
 安徽综艺.体育频道,http://112.27.235.94:8000/hls/25/index.m3u8
 合肥新闻综合频道,http://112.27.235.94:8000/hls/18/index.m3u8
@@ -729,9 +735,9 @@ RTHK32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
 TVB翡翠台,http://r.jdshipin.com/62WM7
 TVB翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 TVB翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
-TVB翡翠台,http://124.244.129.167:9004/0.ts
-TVB翡翠台,http://qingyi.7766.org:9004/0.ts
 TVB翡翠台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=53
+TVB翡翠台,http://qingyi.7766.org:9004/0.ts
+TVB翡翠台,http://124.244.129.167:9004/0.ts
 翡翠台北美版,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j1
 TVB明珠台,http://r.jdshipin.com/jUx8K
 TVB明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
@@ -798,11 +804,14 @@ VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 2026-07-10 12:34:50,https://my9.ltd/momo-480.mp4
 2026-07-11 01:50:29,http://kakaxi.indevs.in/Disclaimer.mp4
 3030相声小品,https://goodiptv.club/douyu/9286868
+7喜先生,https://live.ottiptv.cc/huya/11342421
+7师傅,https://live.ottiptv.cc/douyu/17732
 ABC News Live,https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
 AMC音乐,https://AMChls.wns.live/hls/stream.m3u8
 APBA匹克球全球总决赛 APBA匹克球公开赛单项总决赛Day 1 2025-2026赛季APBA匹克球公开赛单项总决赛全场回放（赛场原声）（三） 09:00,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/631/863/5106631863/media/5106631863_5339187944_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701813518&pid=2028597139&timestamp=20260711020211&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966116633&ParentNodeID=-99&assertID=5701813518&client_ip=171.8.79.254&SecurityKey=20260711020211&promotionId=&mvid=5106631863&mcid=1003&mpid=120000582562&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=dee01d0c5759d6ced8f812004b1afd64&sv=10004&ct=android
 Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 Astro AOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
+baby丶贝贝,https://live.ottiptv.cc/douyu/431460
 Beautiful Life TV,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 BWF 圣坛、星驰组合获得亚军 【回放】乔纳坦0-2赖浩俊（刘钟鸣、鸿昆、余博洋） 12:00,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/592/715/5106592715/media/5106592715_5337350369_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701769703&pid=2028597139&timestamp=20260711000222&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965228057&ParentNodeID=-99&assertID=5701769703&client_ip=171.8.79.254&SecurityKey=20260711000222&promotionId=&mvid=5106592715&mcid=1003&mpid=120000579181&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=f550437b72bd91bae5eba2794de9f544&sv=10004&ct=android
 BWF 圣坛、星驰组合获得亚军 【回放】吴世飞/伊祖丁2-1因陀罗/华金（刘钟鸣、鸿昆、余博洋） 12:00,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/592/717/5106592717/media/5106592717_5337355397_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701769770&pid=2028597139&timestamp=20260711000222&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965232299&ParentNodeID=-99&assertID=5701769770&client_ip=171.8.79.254&SecurityKey=20260711000222&promotionId=&mvid=5106592717&mcid=1003&mpid=120000579181&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=875c7bb0066f13b1bad9810e4b3649c6&sv=10004&ct=android
@@ -828,7 +837,9 @@ NBA 魔术VS黄蜂 全场回放（张泽欣） 07:25,http://hlszymgspvod.miguvid
 NBA 魔术VS黄蜂 全场回放（英文原声） 07:25,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/631/309/5106631309/media/5106631309_5339156218_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701812609&pid=2029000099&timestamp=20260711020210&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966103594&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701812609&client_ip=171.8.79.254&SecurityKey=20260711020210&promotionId=&mvid=5106631309&mcid=1003&mpid=120000582587&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=1&encrypt=24658edfd19096db8bba85d9e210b99f&sv=10004&ct=android
 NBA 鹈鹕VS森林狼 全场回放（英文原声） 03:25,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/631/235/5106631235/media/5106631235_5339146065_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701812474&pid=2029000119&timestamp=20260711020208&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966099084&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701812474&client_ip=171.8.79.254&SecurityKey=20260711020208&promotionId=&mvid=5106631235&mcid=1003&mpid=120000582582&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=1&encrypt=bc3b37ae086d80fab508a22b610086dd&sv=10004&ct=android
 Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+Only丶邵氏,https://live.ottiptv.cc/douyu/4246519
 Pet Club TV,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
+Poison丶冰冰,https://live.ottiptv.cc/douyu/74374
 Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 RT Arabic（阿语）,https://rt-arb.rttv.com/dvr/rtarab/playlist_4500Kb.m3u8
 RT Balkan （塞尔维亚语）,https://rt-srb.rttv.com/dvr/rtbalkan/playlist_4500Kb.m3u8
@@ -843,7 +854,13 @@ TVBS-Asia,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 WionNews,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 WTA 精彩回顾：王欣瑜 vs 扎拉祖阿 全场回放 12:00,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/613/640/5106613640/media/5106613640_5338145537_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701787817&pid=2028597139&timestamp=20260711000221&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965581369&ParentNodeID=-99&assertID=5701787817&client_ip=171.8.79.254&SecurityKey=20260711000221&promotionId=&mvid=5106613640&mcid=1003&mpid=120000580653&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=a910ec83b05fcebc2d919e2922ba8975&sv=10004&ct=android
+【周星驰】搞笑电影,https://live.ottiptv.cc/yy/38670875
+七龙珠,https://live.ottiptv.cc/huya/11601966
+万事通熊猫,https://live.ottiptv.cc/douyu/7812810
 万合出品,https://goodiptv.club/douyu/9220456
+三国演义,https://live.ottiptv.cc/huya/11602081
+与凤行,https://live.ottiptv.cc/huya/26355866
+世界未解之谜M,https://live.ottiptv.cc/douyu/9369468
 世界杯 法国VS摩洛哥 全场回放（AI智能观赛） 03:45,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/631/227/5106631227/media/5106631227_5339145982_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701812339&pid=2028597139&timestamp=20260711020209&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966099250&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701812339&client_ip=171.8.79.254&SecurityKey=20260711020209&promotionId=&mvid=5106631227&mcid=1003&mpid=120000575610&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=80bbc591df1f8408c8b1d66a22d807ba&sv=10004&ct=android
 世界杯 法国VS摩洛哥 全场回放（刘一臻、盛斌） 03:45,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/631/225/5106631225/media/5106631225_5339145517_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701812337&pid=2028597139&timestamp=20260711020208&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966099071&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701812337&client_ip=171.8.79.254&SecurityKey=20260711020208&promotionId=&mvid=5106631225&mcid=1003&mpid=120000575610&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=7388f17466e2ae8c471d7952a3995cab&sv=10004&ct=android
 世界杯 法国VS摩洛哥 全场回放（智能解说） 03:45,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/631/228/5106631228/media/5106631228_5339145952_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701812340&pid=2028597139&timestamp=20260711020209&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966099238&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701812340&client_ip=171.8.79.254&SecurityKey=20260711020209&promotionId=&mvid=5106631228&mcid=1003&mpid=120000575610&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=a284441a62e09fc9f704a892cfaf0453&sv=10004&ct=android
@@ -854,6 +871,7 @@ WTA 精彩回顾：王欣瑜 vs 扎拉祖阿 全场回放 12:00,http://hlszymgsp
 世界杯 法国VS摩洛哥 闽南语回放（洪荒） 03:45,http://mgsp.vod.miguvideo.com:8088/depository_eos_wxlz04/asset/zhengshi/5106/631/223/5106631223/media/5106631223_5339145362_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701812335&pid=2028597139&timestamp=20260711020209&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966099043&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701812335&client_ip=171.8.79.254&SecurityKey=20260711020209&promotionId=&mvid=5106631223&mcid=1003&mpid=120000575610&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=9010fa3f76d16c94ed9aa05013cae44e&sv=10004&ct=android
 中乙 长春喜都VS大连英博B队 解说 15:50,http://flvctypull2mgsplive.miguvideo.com:80/mglive/mgss243_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510507793&pid=2028597139&timestamp=20260711020229&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966088585&ParentNodeID=-99&assertID=7510507793&client_ip=171.8.79.254&SecurityKey=20260711020229&promotionId=&mvid=7510253562&mcid=500020&mpid=120000571948&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=2c3a5348250d09fe1770b5ee8e5e24f5&sv=10004&ct=android
 中华小当家,https://live.metshop.top/huya/11342413
+中华小当家,https://live.ottiptv.cc/huya/11342413
 中华特产,http://120.76.248.139/live/bfgd/4200000158.m3u8
 中国乒协会员联赛 单打第一、二阶段 全场回放（二） 09:00,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/631/327/5106631327/media/5106631327_5339178133_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701813232&pid=2028597139&timestamp=20260711020211&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966109871&ParentNodeID=-99&assertID=5701813232&client_ip=171.8.79.254&SecurityKey=20260711020211&promotionId=&mvid=5106631327&mcid=1003&mpid=120000582577&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=8babb2b57aab3ad88847e90e475d92a9&sv=10004&ct=android
 中国村庄,http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/93fc12dbf14241c18c23da104fbade23/4000.m3u8
@@ -868,6 +886,7 @@ WTA 精彩回顾：王欣瑜 vs 扎拉祖阿 全场回放 12:00,http://hlszymgsp
 乌镇蓝印花布,https://gcalic.v.myalicdn.com/gc/zjwzlyhb_1/index.m3u8
 乌镇西市河,https://gcalic.v.myalicdn.com/gc/zjwzbblh_1/index.m3u8
 乌镇龙形田,https://gcalic.v.myalicdn.com/gc/zjwzlxt_1/index.m3u8
+乌龙闯情关,https://live.ottiptv.cc/huya/26355767
 乐山大佛全景,https://gcalic.v.myalicdn.com/gc/lsdfgfl_1/index.m3u8
 云南丽江冰川,https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
 云南丽江印象实景,https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
@@ -879,10 +898,15 @@ WTA 精彩回顾：王欣瑜 vs 扎拉祖阿 全场回放 12:00,http://hlszymgsp
 云南大理崇圣寺三塔远景,https://gcalic.v.myalicdn.com/gc/dlst01_1/index.m3u8
 云南白沙远眺玉龙雪山,https://gcalic.v.myalicdn.com/gc/hkylxs03_1/index.m3u8
 五彩池,https://gcalic.v.myalicdn.com/gc/hlwcc_1/index.m3u8
+亚、娜,https://live.ottiptv.cc/huya/30581465
+亮剑,https://live.ottiptv.cc/huya/30080238
 人在囧途,https://vip.ffzy-play.com/20221018/1953_2d6ba500/index.m3u8
 人在囧途之泰囧,https://vip.ffzy-play.com/20221018/1951_47e1adc8/index.m3u8
 人在囧途之港囧,https://vip.ffzy-play7.com/20230112/11082_fde1a94d/index.m3u8
+仙剑奇侠传,https://live.ottiptv.cc/yy/1382749903
+伊太刀刀,https://live.ottiptv.cc/douyu/747764
 优优宝贝,http://120.76.248.139/live/bfgd/4200000153.m3u8
+伪装者,https://live.ottiptv.cc/yy/1354936244
 体坛名栏汇,http://mgsp-cty2.live.miguvideo.com:8088/migu/kailu/titanminglan/51/20250514/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=5500315687&pid=2028597139&timestamp=20260711000207&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=629943305&ParentNodeID=-99&assertID=5500315687&client_ip=171.8.79.254&SecurityKey=20260711000207&promotionId=&mvid=5101034219&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=935ac63841dce11b4ceb9988a5ae54b1&sv=10004&ct=android
 倩女幽魂人间道,http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8
 倩女幽魂妖魔道,http://jsmov2.a.yximgs.com/bs3/video-hls/5232901391302199073_hlsb.m3u8
@@ -892,7 +916,6 @@ WTA 精彩回顾：王欣瑜 vs 扎拉祖阿 全场回放 12:00,http://hlszymgsp
 公共新闻频道,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/jstv/jsgonggong/600/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699067&netType=0&sid=5500260520&pid=2028597139&timestamp=20260711000212&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=626064693&ParentNodeID=-99&assertID=5500260520&client_ip=171.8.79.254&SecurityKey=20260711000212&promotionId=&mvid=5100186429&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=a2382dfed63d3a649e89958ef3957379&sv=10004&ct=android
 六盘山红军长征景区,https://gcalic.v.myalicdn.com/gc/lpsgmjng01_1/index.m3u8
 兵团五师双河影,https://liveout.btzx.com.cn/62ds9e/6o77s4.m3u8?zxinjd
-冰冰影剧,http://www.goodiptv.club/douyu/74374
 凤凰中文高清,http://cdn6.163189.xyz/163189/fhzw
 凤凰卫视台,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰古城东关门,https://gcalic.v.myalicdn.com/gc/fhgcdgm_1/index.m3u8
@@ -900,43 +923,71 @@ WTA 精彩回顾：王欣瑜 vs 扎拉祖阿 全场回放 12:00,http://hlszymgsp
 凤凰资讯台,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯高清,http://cdn6.163189.xyz/163189/fhzx
 凤凰香港高清,http://cdn6.163189.xyz/163189/fhhk
-华语影视,http://www.goodiptv.club/douyu/3928
+刘哔电影,https://live.ottiptv.cc/douyu/2632223
 南京玄武湖公园,https://gcalic.v.myalicdn.com/gc/xwh01_1/index.m3u8
 厦门鼓浪屿,https://gcalic.v.myalicdn.com/gc/gly01_1/index.m3u8
-古装武侠,http://www.goodiptv.club/douyu/2793084
+古惑仔,https://live.ottiptv.cc/yy/1458015189
+名侦探柯南,https://live.ottiptv.cc/huya/30080236
+周星驰的直播间,https://live.ottiptv.cc/douyu/8257039
+哆啦A梦,https://live.ottiptv.cc/huya/11601963
+唐诡之西行,https://live.ottiptv.cc/huya/26355763
+喜羊羊与灰太狼,https://live.ottiptv.cc/huya/23865080
 四川四姑娘山隆珠措,https://gcalic.v.myalicdn.com/gc/sgns02_1/index.m3u8
 四川峨眉山云海日出,https://gcalic.v.myalicdn.com/gc/emsarm_1/index.m3u8
 四川峨眉山普贤菩萨铜像,https://gcalic.v.myalicdn.com/gc/emspxps_1/index.m3u8
 四川峨眉山远眺万佛顶,https://gcalic.v.myalicdn.com/gc/emswfs_1/index.m3u8
 四川峨眉山远眺贡嘎雪山,https://gcalic.v.myalicdn.com/gc/emsyh_1/index.m3u8
 地理中国,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c6baf6f74bb944aeacee1065ea72c798/1200.m3u8
+士兵突击,https://live.ottiptv.cc/huya/11342430
+大秦赋,https://live.ottiptv.cc/huya/23903130
 天元围棋,http://204.12.221.218:8181/3m1080p/gztywq.m3u8
 天涯石,https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8
+奇光主播,https://live.ottiptv.cc/douyu/8009547
 奇光主播,https://goodiptv.club/douyu/8009547
+奇光主播e,https://live.ottiptv.cc/douyu/11849873
 奇光主播e,https://goodiptv.club/douyu/11849873
+奇光主播q,https://live.ottiptv.cc/douyu/12560807
+奇兮兮悄陌,https://live.ottiptv.cc/douyu/953193
 女神金,https://goodiptv.club/douyu/747764
+如懿传,https://live.ottiptv.cc/huya/29465868
 宁夏卫视-,http://60.10.139.113:8801/hls/57/index.m3u8
+宇宙探索飞船,https://live.ottiptv.cc/douyu/9456028
 安徽池州九华山风景区九华山,https://gcalic.v.myalicdn.com/gc/jhs05_1/index.m3u8
 安徽黟县芦村远眺,https://gcalic.v.myalicdn.com/gc/yxlcyt_1/index.m3u8
 安徽黟县西递牌坊,https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8
 宋小宝经典小品,https://goodiptv.club/douyu/9817729
 寒战,https://vip.ffzy-play6.com/20221019/157_bf0740ee/index.m3u8
+小毅主播e,https://live.ottiptv.cc/douyu/11851549
 小毅主播e,https://goodiptv.club/douyu/11851549
+小毅主播q,https://live.ottiptv.cc/douyu/6906628
 小毅主播q,https://goodiptv.club/douyu/6906628
+小涛讲电影V,https://live.ottiptv.cc/douyu/8415464
+少年包青天第一部,https://live.ottiptv.cc/yy/1356043677
+少年包青天第三部,https://live.ottiptv.cc/yy/1382736814
 山东青岛艾山天文台,https://gcalic.v.myalicdn.com/gc/jhs01_1/index.m3u8
 山西卫视-,http://60.10.139.113:8801/hls/54/index.m3u8
 广德生活,https://live.gdtv.ah.cn/live/newsTV.m3u8
 广西桂林漓江景区,https://gcalic.v.myalicdn.com/gc/gllj01_1/index.m3u8
 广西玉林大容山莲花山顶,https://gcalic.v.myalicdn.com/gc/drs01_1/index.m3u8
+庆余年,https://live.ottiptv.cc/huya/11352960
+康熙微服私访记,https://live.ottiptv.cc/huya/11342418
+康熙王朝,https://live.ottiptv.cc/huya/11352940
+延禧攻略,https://live.ottiptv.cc/huya/26355864
 建党105周年巡礼,http://hlsztemgsplive.miguvideo.com:8080/migu/virtuallive2/5900002413/51/20210706/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5910019527&pid=2028597139&timestamp=20260711000216&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=713600957&ParentNodeID=-99&assertID=5910019527&client_ip=171.8.79.254&SecurityKey=20260711000216&promotionId=&mvid=5900002443&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=f0acf1db8c815fa3bc1510f679b320e9&sv=10004&ct=android
 开心锤锤,https://goodiptv.club/douyu/9018297
 张掖七彩丹霞,https://gcalic.v.myalicdn.com/gc/zyqcdx01_1/index.m3u8
+影迷心公社,https://live.ottiptv.cc/huya/30522289
+怡宝妹妹丶,https://live.ottiptv.cc/douyu/434971
+怪兽马提尼电影,https://live.ottiptv.cc/douyu/9075333
+恐怖电影,https://live.ottiptv.cc/yy/24066336
 恒山悬空寺全景,https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
+悠悠爱电影,https://live.ottiptv.cc/huya/30611864
+懒猫是只喵,https://live.ottiptv.cc/douyu/260322
 我不是药神,https://vip.ffzy-play1.com/20221018/478_c3afed66/index.m3u8
 拆弹专家1,https://vip.ffzy-online.com/20221015/719_80ff87c2/index.m3u8
 拆弹专家2,https://vip.ffzy-online.com/20221015/722_e32c42bc/index.m3u8
 支持作者,https://vd2.bdstatic.com/mda-sctj0f6r4u1bpebc/1080p/cae_h264/1774706523506678171/mda-sctj0f6r4u1bpebc.mp4
-斗鱼港剧,http://www.goodiptv.club/douyu/5061550
+新三国,https://live.ottiptv.cc/huya/11352944
 新三国（斗鱼）,https://goodiptv.club/douyu/5908256
 新视觉HD,http://120.76.248.139/live/bfgd/4200000249.m3u8
 新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
@@ -963,11 +1014,18 @@ WTA 精彩回顾：王欣瑜 vs 扎拉祖阿 全场回放 12:00,http://hlszymgsp
 最强综艺趴,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/zuiqiangzongyi/51/20250514/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=5500315654&pid=2028597139&timestamp=20260711000219&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=629942228&ParentNodeID=-99&assertID=5500315654&client_ip=171.8.79.254&SecurityKey=20260711000219&promotionId=&mvid=5101034202&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=176168537de304aec8d09f954d3c3b2e&sv=10004&ct=android
 月牙泉,https://gcalic.v.myalicdn.com/gc/dhyyqsm_1/index.m3u8
 望乡台,https://gcalic.v.myalicdn.com/gc/hlwxt_1/index.m3u8
+林正英经典,https://live.ottiptv.cc/yy/1351505899
+柳舟计,https://live.ottiptv.cc/huya/23860039
 桦甸,http://stream10.jlntv.cn/huadian/sd/live.m3u8?zjild
+梦中的那片海,https://live.ottiptv.cc/huya/26355765
 梨园,https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=41543190cdf375f1c73207222bb96542&wsTime=1769313549
-橙记港剧,http://www.goodiptv.club/douyu/4549169
+橙記Orange丶,https://live.ottiptv.cc/douyu/4549169
+欢乐颂,https://live.ottiptv.cc/yy/1382735624
+武林萌主唐小姐,https://live.ottiptv.cc/huya/11336726
+永夜星河,https://live.ottiptv.cc/huya/23734169
 江苏南京牛首山,https://gcalic.v.myalicdn.com/gc/nss01_1/index.m3u8
 江苏徐州云龙湖风景区云龙山观景台西,https://gcalic.v.myalicdn.com/gc/ylh04_1/index.m3u8
+沐希兔子,https://live.ottiptv.cc/huya/29835225
 河南电视剧,http://1.94.31.214/php/hntv.php?id=hndsj
 泰山主峰,https://gcalic.v.myalicdn.com/gc/taishan01_1/index.m3u8
 泰山十八盘,https://gcalic.v.myalicdn.com/gc/taishan05_1/index.m3u8
@@ -979,14 +1037,19 @@ WTA 精彩回顾：王欣瑜 vs 扎拉祖阿 全场回放 12:00,http://hlszymgsp
 泰山白云亭悬崖,https://gcalic.v.myalicdn.com/gc/hkts02_1/index.m3u8
 泰山碧霞祠,https://gcalic.v.myalicdn.com/gc/hkts03_1/index.m3u8
 泰州新闻综合,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/jstv/tzxinwenzonghe/600/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699067&netType=0&sid=5500469354&pid=2028597139&timestamp=20260711000213&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=639731818&ParentNodeID=-99&assertID=5500469354&client_ip=171.8.79.254&SecurityKey=20260711000213&promotionId=&mvid=5102012615&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=4f3c0fc48f96892ff60464636c161696&sv=10004&ct=android
+流水迢迢,https://live.ottiptv.cc/huya/23865036
 浙BA 吴兴67-80长兴 2026浙江省城市篮球联赛全场回放：吴兴vs长兴（赛场原声） 19:30,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/631/891/5106631891/media/5106631891_5339186562_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701813475&pid=2028597139&timestamp=20260711020213&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966115840&ParentNodeID=-99&assertID=5701813475&client_ip=171.8.79.254&SecurityKey=20260711020213&promotionId=&mvid=5106631891&mcid=1003&mpid=120000582342&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=fb308fe6f9bd00a9df348930d3831592&sv=10004&ct=android
 浙江温州泰顺县廊桥文化园,https://gcalic.v.myalicdn.com/gc/cntv411-zbzg_1/index.m3u8
 浙江舟山东极岛,https://gcalic.v.myalicdn.com/gc/djd01_1/index.m3u8
 海南广播电视总台社会与法频道,http://mgsp-cty2.live.miguvideo.com:8088/migu/kailu/lngg/51/20251225/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600697&netType=0&sid=5910022323&pid=2028597139&timestamp=20260711000215&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=962045223&ParentNodeID=-99&assertID=5910022323&client_ip=171.8.79.254&SecurityKey=20260711000215&promotionId=&mvid=5900006791&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=f4ccfaa59cf0c419b0b15bc7ff2df486&sv=10004&ct=android
+涂涂观影团,https://live.ottiptv.cc/huya/30513350
+港片 喜剧 动作,https://live.ottiptv.cc/yy/1355480591
 湖南张家界天门山西线玻璃栈道,https://gcalic.v.myalicdn.com/gc/tms05_1/index.m3u8
 湖南张家界宝峰湖,https://gcalic.v.myalicdn.com/gc/zjjbfh_1/index.m3u8
 湖南张家界御笔峰,https://gcalic.v.myalicdn.com/gc/zjjybf_1/index.m3u8
 湖南张家界水绕四门,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
+灌篮高手,https://live.ottiptv.cc/yy/1382735626
+火龙果讲电影本人,https://live.ottiptv.cc/douyu/2039501
 熊猫直播,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
 熊猫频道1,http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/xiongmao01/1000/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=2200200699&pid=2028597139&timestamp=20260711000218&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608933610&ParentNodeID=-99&assertID=2200200699&client_ip=171.8.79.254&SecurityKey=20260711000218&promotionId=&mvid=2200200699&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=fdae422b44aaa06cfc6b2d7de4e8bab8&sv=10004&ct=android
 熊猫频道4,http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/xiongmao04/1000/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=2200200771&pid=2028597139&timestamp=20260711020207&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608934721&ParentNodeID=-99&assertID=2200200771&client_ip=171.8.79.254&SecurityKey=20260711020207&promotionId=&mvid=2200200771&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=f4305c3f1da1520e55619931968c5029&sv=10004&ct=android
@@ -994,25 +1057,47 @@ WTA 精彩回顾：王欣瑜 vs 扎拉祖阿 全场回放 12:00,http://hlszymgsp
 熊猫频道7,http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/xiongmao07/1000/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=2200192831&pid=2028597139&timestamp=20260711020207&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=609169286&ParentNodeID=-99&assertID=2200192831&client_ip=171.8.79.254&SecurityKey=20260711020207&promotionId=&mvid=2200192831&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=8d0d4d9ce60cbcd3d27835c469a5323b&sv=10004&ct=android
 熊猫频道9,http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/xiongmao09/1000/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=2200192899&pid=2028597139&timestamp=20260711000219&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=609169226&ParentNodeID=-99&assertID=2200192899&client_ip=171.8.79.254&SecurityKey=20260711000219&promotionId=&mvid=2200192899&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=1c84deae7e1b0d43fa744ad73a589d77&sv=10004&ct=android
 爱情公寓（斗鱼）,https://goodiptv.club/douyu/4105989
+父母爱情,https://live.ottiptv.cc/yy/1354926650
+牛叔说电影,https://live.ottiptv.cc/douyu/2758565
+特种兵之火凤凰,https://live.ottiptv.cc/huya/29982636
 狮子山鸟瞰丽江古城,https://gcalic.v.myalicdn.com/gc/ljgcszsnkgc_1/index.m3u8
+王坑坑聊电影,https://live.ottiptv.cc/douyu/9402110
+玫瑰的故事,https://live.ottiptv.cc/huya/23865142
 生态环境,http://120.76.248.139/live/bfgd/4200000149.m3u8
+电影迷小雅,https://live.ottiptv.cc/douyu/9639225
+电视剧僵尸约会,https://live.ottiptv.cc/douyu/8371123
+白了个痴,https://live.ottiptv.cc/douyu/319576
 直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+相识不可缓也,https://live.ottiptv.cc/huya/30984527
+知否知否,https://live.ottiptv.cc/yy/21881901
 祁门综合,http://zbbf2.ahbztv.com/live/416.m3u8?zanhd
+神探狄仁杰第一部,https://live.ottiptv.cc/huya/11352958
+神探狄仁杰第三部,https://live.ottiptv.cc/huya/11342425
 神探狄仁杰第二部,https://goodiptv.club/douyu/12183882
 福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 福建武夷山玉女峰,https://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8
 福建漳州醉美沙滩翡翠湾,https://gcalic.v.myalicdn.com/gc/fcw03_1/index.m3u8
+竹叶的熊猫,https://live.ottiptv.cc/douyu/3870925
+米尼影院,https://live.ottiptv.cc/douyu/7642724
 粤语电影,https://goodiptv.club/douyu/1226741
 精彩短剧看不停,https://goodiptv.club/douyu/11824307
+精灵宝可梦,https://live.ottiptv.cc/huya/23749096
 经典,https://goodiptv.club/douyu/6091425
-经典剧集,http://www.goodiptv.club/douyu/6863367
 经典动画大集合,http://mgsp-cty2.live.miguvideo.com:8088/migu/kailu/jingdiandonghua/51/20250514/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=5500315652&pid=2028597139&timestamp=20260711000219&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=629942219&ParentNodeID=-99&assertID=5500315652&client_ip=171.8.79.254&SecurityKey=20260711000219&promotionId=&mvid=5101034205&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=3f5cc25c8053e401524c78b2768b57ee&sv=10004&ct=android
 经典小品,https://goodiptv.club/douyu/9067836
+经典电影重温,https://live.ottiptv.cc/yy/1382793140
 翡翠台4K,http://cdn6.163189.xyz/163189/fct4k
+老烟斗鬼故事,https://live.ottiptv.cc/douyu/2337939
+老高与小茉的死忠粉,https://live.ottiptv.cc/douyu/236461
 自然传奇,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/81a1ad3a661748bfb8560c92d38204ca/1200.m3u8
 航拍中国第二季,http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/2bdfdad540b342f592f9817cb7f3b79a/4000.m3u8
-西游记续集,http://www.goodiptv.club/douyu/3113309
-贝爷求生,http://www.goodiptv.club/douyu/9661369
+芈月传,https://live.ottiptv.cc/huya/11352975
+若芸芸,https://live.ottiptv.cc/huya/31217965
+苹果Zei妖,https://live.ottiptv.cc/douyu/2793084
+苹果Zei甜,https://live.ottiptv.cc/douyu/1174353
+萌萌小桃子,https://live.ottiptv.cc/huya/29807256
+蓝翔新三国,https://live.ottiptv.cc/douyu/5908256
+贝爷求生影视,https://live.ottiptv.cc/douyu/9661369
 贵州村超 仁吉村村牛足球队VS党调村贵州村徒队 全场回放 18:30,http://mgsp.vod.miguvideo.com:8088/depository_eos_wxlz04/asset/zhengshi/5106/631/837/5106631837/media/5106631837_5339184089_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701813426&pid=2028597139&timestamp=20260711020212&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966114647&ParentNodeID=-99&assertID=5701813426&client_ip=171.8.79.254&SecurityKey=20260711020212&promotionId=&mvid=5106631837&mcid=1003&mpid=120000582377&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=94b4c67a42bb8b6205084ebb96017003&sv=10004&ct=android
 贵州村超 阳光村足球队VS忠诚村足球队 赛场原声 14:30,http://flvctypull2mgsplive.miguvideo.com:80/mglive/mgss281_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510506857&pid=2028597139&timestamp=20260711020229&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966020137&ParentNodeID=-99&assertID=7510506857&client_ip=171.8.79.254&SecurityKey=20260711020229&promotionId=&mvid=7510253094&mcid=500020&mpid=120000582383&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=20d721db41fbe97ed124d27999d9025a&sv=10004&ct=android
 贵州村超 高硐村足球队VS扒王村足球队 赛场原声 16:30,http://flvctypull2mgsplive.miguvideo.com:80/mglive/mgss282_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510506859&pid=2028597139&timestamp=20260711020229&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966020153&ParentNodeID=-99&assertID=7510506859&client_ip=171.8.79.254&SecurityKey=20260711020229&promotionId=&mvid=7510253095&mcid=500020&mpid=120000582384&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=1ab63b54f94c17964411bc67dd9c43db&sv=10004&ct=android
@@ -1021,16 +1106,26 @@ WTA 精彩回顾：王欣瑜 vs 扎拉祖阿 全场回放 12:00,http://hlszymgsp
 赵本删不删,https://goodiptv.club/douyu/9837104
 车迷频道,http://120.76.248.139/live/bfgd/4200000146.m3u8
 都江堰鱼嘴,https://gcalic.v.myalicdn.com/gc/djyqyl1_1/index.m3u8
+都爱看,https://live.ottiptv.cc/huya/26058097
+铁甲影院,https://live.ottiptv.cc/douyu/1274132
+铁齿铜牙纪晓岚,https://live.ottiptv.cc/huya/11342396
 阿七点歌台,https://goodiptv.club/douyu/3186217
+陈情令,https://live.ottiptv.cc/huya/29465862
 陕西洋县国宝朱鹮02,https://gcalic.v.myalicdn.com/gc/zh02_1/index.m3u8
+隋唐英雄传,https://live.ottiptv.cc/yy/1352475619
 雪乡大石碑,https://gcalic.v.myalicdn.com/gc/mdjxxdsb_1/index.m3u8
 雪乡梦幻家园,https://gcalic.v.myalicdn.com/gc/mdjxxmhjyxj_1/index.m3u8
+雪豹,https://live.ottiptv.cc/huya/29580970
 青岛崂山八水河,https://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8
 青岛崂山双福,https://gcalic.v.myalicdn.com/gc/qdls03_1/index.m3u8
 青海卫视-,http://60.10.139.113:8801/hls/56/index.m3u8
 音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 飞碟之谜01,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/f0a47e155d32450daa1d36a04fd7d262/2000.m3u8
 飞碟之谜02,https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d2454bbb542d4613a9db478dab2addfd/2000.m3u8
+鬼吹灯之云南虫谷,https://live.ottiptv.cc/huya/11352898
+鬼吹灯之怒晴湘西,https://live.ottiptv.cc/huya/11602075
+鬼吹灯之精绝古城,https://live.ottiptv.cc/huya/11352871
+鬼吹灯之龙岭迷窟,https://live.ottiptv.cc/huya/29465863
 鸣沙山,https://gcalic.v.myalicdn.com/gc/dhyyqst_1/index.m3u8
 黄山,https://gcalic.v.myalicdn.com/gc/ahhs01_1/index.m3u8
 黄山始信新道,https://gcalic.v.myalicdn.com/gc/hsyg_1/index.m3u8
@@ -1040,3 +1135,4 @@ WTA 精彩回顾：王欣瑜 vs 扎拉祖阿 全场回放 12:00,http://hlszymgsp
 黄花城水长城01,https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8
 黄花城水长城03,https://gcalic.v.myalicdn.com/gc/wgw03_1/index.m3u8
 黄龙,https://gcalic.v.myalicdn.com/gc/hlzycc_1/index.m3u8
+龍組队长天昊,https://live.ottiptv.cc/douyu/1487654
