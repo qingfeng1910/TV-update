@@ -55,3 +55,8 @@ hls.cntv.lxdns.com:443
 110.154.192.76:7788
 gslbmgsplive.miguvideo.com:80
 119.88.243.98:17231
+cm-wshls.homecdn.com:80
+stream3.jlntv.cn:80
+live.264788.xyz:443
+stream.thmz.com:443
+183.11.239.36:808
