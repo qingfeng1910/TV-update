@@ -24,3 +24,8 @@ tvfile.jjrm.org.cn:80
 222.169.85.8:9901
 stream.thmz.com:80
 l2fpdktp.live.sxmty.com:443
+cdn.jdshipin.com:8880
+222.95.12.2:4022
+111.221.137.234:44330
+bp-resource-dfl.bestv.cn:80
+222.214.208.34:59901
