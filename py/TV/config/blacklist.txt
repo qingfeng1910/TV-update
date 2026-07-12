@@ -61,3 +61,5 @@ live.264788.xyz:443
 stream.thmz.com:443
 183.11.239.36:808
 8.153.110.51:3020
+www.lwfz.fun:8800
+zjtv-wshls.homecdn.com:80
