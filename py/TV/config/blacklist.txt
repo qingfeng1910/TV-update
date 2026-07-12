@@ -29,3 +29,9 @@ cdn.jdshipin.com:8880
 111.221.137.234:44330
 bp-resource-dfl.bestv.cn:80
 222.214.208.34:59901
+epg.pw:443
+m3u8.channel.dzsm.com:443
+hslive.hsnewsnet.com:80
+live.streamingfast.net:443
+124.116.183.146:9901
+112.46.85.60:8009
