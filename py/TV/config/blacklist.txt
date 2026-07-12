@@ -20,3 +20,7 @@ l.cztvcloud.com:443
 genglei.8866.org:9901
 116.233.67.80:8899
 tvfile.jjrm.org.cn:80
+112.123.243.37:50085
+222.169.85.8:9901
+stream.thmz.com:80
+l2fpdktp.live.sxmty.com:443
