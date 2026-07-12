@@ -63,3 +63,5 @@ stream.thmz.com:443
 8.153.110.51:3020
 www.lwfz.fun:8800
 zjtv-wshls.homecdn.com:80
+171.213.146.15:8899
+tpc.x3322.net:9901
