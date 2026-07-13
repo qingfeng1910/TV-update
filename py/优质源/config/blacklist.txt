@@ -121,3 +121,6 @@ video.epaper.pybtv.cn
 www.cdnstv.com
 111.231.6.102
 118.193.115.2
+8.153.110.51
+183.129.255.66
+p.ytelc.com
