@@ -49,3 +49,5 @@ gslbmgspvod.miguvideo.com:80
 106.111.244.12:58099
 gslbflvmgsplive.miguvideo.com:80
 gmxw.7766.org:808
+183.223.157.33:9901
+tmpstream.hyrtv.cn:80
