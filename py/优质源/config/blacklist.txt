@@ -124,3 +124,6 @@ www.cdnstv.com
 8.153.110.51
 183.129.255.66
 p.ytelc.com
+cm-wshls.homecdn.com
+satellitepull.cnr.cn
+flvhspull2mgsplive.miguvideo.com
