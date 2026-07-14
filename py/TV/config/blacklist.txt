@@ -64,3 +64,4 @@ live.264788.xyz:443
 srs.iyb983.cn:443
 stream.jmtv.com.cn:443
 119.39.9.8:9901
+stream.thmz.com:80
