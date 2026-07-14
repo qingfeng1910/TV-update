@@ -65,3 +65,5 @@ srs.iyb983.cn:443
 stream.jmtv.com.cn:443
 119.39.9.8:9901
 stream.thmz.com:80
+222.95.12.2:4022
+play.jinnantv.top:80
