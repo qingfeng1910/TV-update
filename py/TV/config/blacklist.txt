@@ -37,3 +37,7 @@ cdn9.163189.xyz:80
 183.223.157.33:9901
 59.35.185.47:8188
 hslive.hsnewsnet.com:80
+bp-resource-dfl.bestv.cn:443
+stream.thmz.com:443
+218.13.170.98:9901
+60.10.139.113:8801
