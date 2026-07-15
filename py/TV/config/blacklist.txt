@@ -58,3 +58,4 @@ satellitepull.cnr.cn:80
 live.264788.xyz:443
 1yp7hc5p.live.sxmty.com:443
 www.wxhcgbds.com:8081
+epg.pw:443
