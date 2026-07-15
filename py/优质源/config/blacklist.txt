@@ -127,3 +127,9 @@ p.ytelc.com
 cm-wshls.homecdn.com
 satellitepull.cnr.cn
 flvhspull2mgsplive.miguvideo.com
+60.10.139.113
+live.264788.xyz
+110.154.192.66
+stream1.freetv.fun
+m3u8.channel.dzsm.com
+183.223.157.33
