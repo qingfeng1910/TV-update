@@ -31,3 +31,13 @@ lxfile.lxxcb.cn:80
 27.12.12.183:1234
 idclive.hljtv.com:4430
 110.154.192.66:7788
+rt-esp.rttv.com:443
+rt-rtd.rttv.com:443
+222.179.42.129:8181
+222.169.85.8:9901
+rt-glb.rttv.com:443
+rt-srb.rttv.com:443
+rt-arb.rttv.com:443
+tpc.x3322.net:9901
+rt-ger.rttv.com:443
+rt-fra.rttv.com:443
