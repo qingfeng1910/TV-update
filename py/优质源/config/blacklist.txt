@@ -137,3 +137,9 @@ m3u8.channel.dzsm.com
 live.metshop.top
 182.127.153.119
 jsmov2.a.yximgs.com
+hkstv.tv
+webcast.hkstv.tv
+nn.7x9d.cn
+stream3.jlntv.cn
+raw.githubusercontent.com
+txmov2.a.kwimgs.com
