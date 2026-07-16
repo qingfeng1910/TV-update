@@ -57,3 +57,6 @@ stream.thmz.com:443
 218.13.170.98:9901
 111.221.137.234:44330
 222.90.21.30:9901
+live.ottiptv.cc:443
+qmmqvzoz.live.sxmty.com:443
+hslive.hsnewsnet.com:80
