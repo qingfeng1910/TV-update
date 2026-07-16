@@ -51,3 +51,6 @@ live.264788.xyz:443
 stream.thmz.com:80
 live.streamingfast.net:443
 my9.ltd:443
+stream.thmz.com:443
+182.150.23.74:808
+183.223.157.33:9901
