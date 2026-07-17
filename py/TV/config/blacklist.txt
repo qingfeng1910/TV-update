@@ -39,3 +39,9 @@ uzoiczhh.live.sxmty.com:80
 www.negative.top:50000
 hslive.hsnewsnet.com:80
 111.221.137.234:44330
+222.214.208.34:59901
+gmxw.7766.org:808
+l.cztvcloud.com:443
+live.daningtv.com:80
+dxtx.hntv.tv:443
+124.116.183.146:9901
