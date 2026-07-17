@@ -35,3 +35,7 @@ vip1.xinketongxun.fun:8082
 live.ottiptv.cc:443
 live.streamingfast.net:443
 222.134.245.16:9901
+uzoiczhh.live.sxmty.com:80
+www.negative.top:50000
+hslive.hsnewsnet.com:80
+111.221.137.234:44330
