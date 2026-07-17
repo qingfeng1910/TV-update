@@ -33,3 +33,5 @@ iptv.4666888.xyz:80
 live.xysrmt.cn:80
 vip1.xinketongxun.fun:8082
 live.ottiptv.cc:443
+live.streamingfast.net:443
+222.134.245.16:9901
