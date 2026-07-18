@@ -37,3 +37,6 @@ bp-resource-dfl.bestv.cn:443
 tpc.x3322.net:9901
 118.193.115.2:9901
 home.scanflove.com:7788
+222.214.208.34:59901
+stream.thmz.com:80
+zbbf2.ahbztv.com:80
