@@ -40,3 +40,8 @@ home.scanflove.com:7788
 222.214.208.34:59901
 stream.thmz.com:80
 zbbf2.ahbztv.com:80
+my9.ltd:443
+124.116.183.146:9901
+101.66.194.150:9901
+101.66.194.177:9901
+e2.woc.iiiya.cn:28888
