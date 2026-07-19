@@ -33,3 +33,8 @@ shcm-stream-cf1.stream.264788.xyz:443
 175.0.64.97:8888
 119.39.9.8:9901
 183.237.95.108:9901
+stream.thmz.com:443
+111.221.137.234:44330
+183.220.20.17:4321
+tencentplay.gztv.com:443
+rt-arb.rttv.com:443
