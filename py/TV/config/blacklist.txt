@@ -72,3 +72,6 @@ www.lwfz.fun:8800
 59.35.185.47:8188
 hslive.hsnewsnet.com:80
 satellitepull.cnr.cn:443
+jsmov2.a.yximgs.com:80
+125.42.148.25:9901
+182.114.48.224:9901
