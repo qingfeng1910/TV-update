@@ -70,3 +70,5 @@ www.lwfz.fun:8800
 183.11.239.36:808
 106.111.244.12:58099
 59.35.185.47:8188
+hslive.hsnewsnet.com:80
+satellitepull.cnr.cn:443
