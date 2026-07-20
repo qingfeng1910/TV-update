@@ -75,3 +75,5 @@ satellitepull.cnr.cn:443
 jsmov2.a.yximgs.com:80
 125.42.148.25:9901
 182.114.48.224:9901
+zmgd.zyrnet.com:8888
+epg.pw:443
