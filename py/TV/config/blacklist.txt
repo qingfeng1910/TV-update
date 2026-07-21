@@ -85,3 +85,5 @@ jwcdnqx.hebyun.com.cn:443
 tylive.kan0512.com:443
 120.198.95.220:9901
 live.streamingfast.net:443
+jsv-live-play.sfccn.com:443
+1.24.39.180:9003
