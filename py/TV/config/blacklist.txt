@@ -100,3 +100,7 @@ ls.qingting.fm:80
 english-livetx.cgtn.com:80
 english-livetx.cgtn.com:443
 tmpstream.hyrtv.cn:80
+gslbmgspvod.miguvideo.com:80
+125.42.148.232:9901
+gslbflvmgsplive.miguvideo.com:80
+live1.gatv.com.cn:85
