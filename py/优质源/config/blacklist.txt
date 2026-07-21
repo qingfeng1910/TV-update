@@ -130,3 +130,5 @@ raw.githubusercontent.com
 bp-resource-dfl.bestv.cn
 jsv-live-play.sfccn.com
 gdcucc.v1.mk
+live1.gatv.com.cn
+183.223.157.33
