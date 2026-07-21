@@ -87,3 +87,8 @@ tylive.kan0512.com:443
 live.streamingfast.net:443
 jsv-live-play.sfccn.com:443
 1.24.39.180:9003
+file.ysxtv.cn:443
+116.52.173.134:1234
+182.61.15.163:80
+59.175.11.109:1234
+60.168.105.87:5008
