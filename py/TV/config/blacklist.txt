@@ -79,3 +79,9 @@ zmgd.zyrnet.com:8888
 epg.pw:443
 bp-resource-dfl.bestv.cn:80
 47.104.178.59:3566
+test1.live.sdetv.com.cn:443
+zb.gxlbamc.com:1935
+jwcdnqx.hebyun.com.cn:443
+tylive.kan0512.com:443
+120.198.95.220:9901
+live.streamingfast.net:443
