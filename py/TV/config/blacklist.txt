@@ -121,3 +121,5 @@ hzcm-live.media.hugd.com:80
 202.105.239.77:8188
 ali-m-l.cztv.com:443
 raw.githubusercontent.com:443
+flvalipull2mgsplive.miguvideo.com:80
+zjtv-wshls.homecdn.com:80
