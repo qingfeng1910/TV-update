@@ -120,3 +120,4 @@ hzcm-live.media.hugd.com:80
 120.202.94.181:9446
 202.105.239.77:8188
 ali-m-l.cztv.com:443
+raw.githubusercontent.com:443
