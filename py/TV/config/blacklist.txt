@@ -47,3 +47,10 @@ devlivepull.migucloud.com:80
 epg.pw:443
 l.cztvcloud.com:443
 222.169.85.8:9901
+101.66.194.177:9901
+125.43.247.15:9901
+222.179.42.129:8181
+lbyzztfe.live.sxmty.com:80
+101.66.194.150:9901
+cm-wshls.homecdn.com:80
+111.221.137.234:44330
