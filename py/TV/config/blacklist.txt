@@ -66,3 +66,9 @@ uzoiczhh.live.sxmty.com:80
 zjtv-wshls.homecdn.com:80
 1yp7hc5p.live.sxmty.com:443
 shcm-stream-cf1.stream.264788.xyz:443
+42.94.210.57:7788
+116.236.204.18:1234
+60.168.105.138:5008
+116.147.108.34:7788
+jwcdnqx.hebyun.com.cn:443
+tmpstream.hyrtv.cn:80
