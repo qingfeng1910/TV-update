@@ -54,3 +54,10 @@ lbyzztfe.live.sxmty.com:80
 101.66.194.150:9901
 cm-wshls.homecdn.com:80
 111.221.137.234:44330
+59.39.89.130:60901
+flvalipull2mgsplive.miguvideo.com:80
+e2.woc.iiiya.cn:28888
+cdn9.163189.xyz:80
+47.104.178.59:3566
+112.46.105.20:8009
+222.179.155.21:1935
