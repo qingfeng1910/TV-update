@@ -61,3 +61,8 @@ cdn9.163189.xyz:80
 47.104.178.59:3566
 112.46.105.20:8009
 222.179.155.21:1935
+110.153.180.106:55555
+uzoiczhh.live.sxmty.com:80
+zjtv-wshls.homecdn.com:80
+1yp7hc5p.live.sxmty.com:443
+shcm-stream-cf1.stream.264788.xyz:443
