@@ -35,3 +35,15 @@ tpc.x3322.net:9901
 59.175.11.109:1234
 hzcm-live.media.hugd.com:80
 gslbmgsplive.miguvideo.com:80
+my9.ltd:443
+live.ottiptv.cc:443
+123.130.84.106:8154
+stream.thmz.com:443
+hslive.hsnewsnet.com:80
+218.13.170.98:9901
+devlivepull.migucloud.com:80
+119.39.9.8:9901
+222.214.208.34:59901
+epg.pw:443
+l.cztvcloud.com:443
+222.169.85.8:9901
