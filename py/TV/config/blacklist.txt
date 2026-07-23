@@ -74,3 +74,7 @@ jwcdnqx.hebyun.com.cn:443
 tmpstream.hyrtv.cn:80
 124.116.183.146:9901
 153.0.171.163:9901
+bp-resource-dfl.bestv.cn:80
+tntgjhjb.live.sxmty.com:443
+bp-resource-dfl.bestv.cn:443
+125.42.151.217:9901
