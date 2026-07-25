@@ -100,3 +100,8 @@ m3u8file.lstv.org.cn
 live.pzhkai.com
 php.jdshipin.com
 111.22.153.159
+116.147.108.34
+218.13.170.98
+bp-resource-dfl.bestv.cn
+uzoiczhh.live.sxmty.com
+ali-vl.cztv.com
