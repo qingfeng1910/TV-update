@@ -95,3 +95,4 @@ www.lwfz.fun:8800
 liveout.xntv.tv:443
 125.42.151.53:9901
 jsmov2.a.yximgs.com:80
+live.jinchuanrmt.com:90
