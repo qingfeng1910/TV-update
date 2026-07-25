@@ -102,3 +102,4 @@ live.jinchuanrmt.com:90
 stream.thmz.com:80
 222.128.26.62:4001
 183.11.239.36:808
+file.ysxtv.cn:443
