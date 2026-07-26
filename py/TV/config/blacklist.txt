@@ -25,3 +25,9 @@ lbyzztfe.live.sxmty.com:80
 live1.habctv.com:80
 bp-resource-dfl.bestv.cn:80
 lxfile.lxxcb.cn:80
+hzcm-live.media.hugd.com:80
+cdn-apse1-prod.tsv2.amagi.tv:443
+cdn9.163189.xyz:80
+222.134.245.16:9901
+222.128.26.62:4001
+qmmqvzoz.live.sxmty.com:443
