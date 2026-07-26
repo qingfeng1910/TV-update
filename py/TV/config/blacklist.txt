@@ -63,3 +63,5 @@ lmt.scqstv.com:80
 221.193.168.22:9901
 44911.hlsplay.aodianyun.com:443
 rihou.cc:555
+tntgjhjb.live.sxmty.com:443
+hslive.hsnewsnet.com:80
