@@ -61,3 +61,5 @@ hlscdn.liangtv.cn:443
 www.lwfz.fun:8800
 lmt.scqstv.com:80
 221.193.168.22:9901
+44911.hlsplay.aodianyun.com:443
+rihou.cc:555
