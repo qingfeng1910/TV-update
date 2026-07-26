@@ -35,3 +35,9 @@ qmmqvzoz.live.sxmty.com:443
 222.169.85.8:9901
 1yp7hc5p.live.sxmty.com:443
 tpc.x3322.net:9901
+my9.ltd:443
+play.scrstv.com.cn:443
+uzoiczhh.live.sxmty.com:80
+live.xysrmt.cn:80
+mgsp-ali2.live.miguvideo.com:8088
+111.221.137.234:44330
