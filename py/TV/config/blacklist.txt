@@ -41,3 +41,7 @@ uzoiczhh.live.sxmty.com:80
 live.xysrmt.cn:80
 mgsp-ali2.live.miguvideo.com:8088
 111.221.137.234:44330
+218.13.170.98:9901
+zjtv-wshls.homecdn.com:80
+124.116.183.146:9901
+l.cztvcloud.com:443
