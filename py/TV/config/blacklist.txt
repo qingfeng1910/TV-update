@@ -55,3 +55,9 @@ vip1.xinketongxun.fun:8082
 live.zzyxxw.com:2443
 183.47.2.156:16883
 182.135.66.163:1888
+e2.woc.iiiya.cn:28888
+121.19.134.22:808
+hlscdn.liangtv.cn:443
+www.lwfz.fun:8800
+lmt.scqstv.com:80
+221.193.168.22:9901
