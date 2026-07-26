@@ -105,3 +105,10 @@ php.jdshipin.com
 bp-resource-dfl.bestv.cn
 uzoiczhh.live.sxmty.com
 ali-vl.cztv.com
+183.11.239.36
+182.61.15.163
+ali.hlspull.yximgs.com
+api.kkitv.itv888.vip
+m3u8.channel.dzsm.com
+hslive.hsnewsnet.com
+nn.7x9d.cn
