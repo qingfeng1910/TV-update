@@ -79,3 +79,9 @@ play.scrstv.com.cn:443
 116.233.67.80:8899
 124.116.183.146:9901
 cdn9.163189.xyz:80
+121.19.134.22:808
+59.35.185.47:8188
+cm-wshls.homecdn.com:80
+zjrtv.vip:80
+vip1.xinketongxun.fun:8082
+183.220.20.17:4321
