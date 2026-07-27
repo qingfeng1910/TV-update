@@ -136,3 +136,6 @@ l2fpdktp.live.sxmty.com
 60.168.105.138
 182.127.153.16
 116.147.108.169
+vip1.xinketongxun.fun
+tvcdn.stream3.hndt.com
+8.135.27.147
