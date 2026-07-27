@@ -48,3 +48,5 @@ tencentplay.gztv.com:80
 p2hs.vzan.com:443
 gctxyc.liveplay.myqcloud.com:80
 p2.vzan.com:443
+shcm-stream-cf1.stream.264788.xyz:443
+stream.ads.ottera.tv:443
