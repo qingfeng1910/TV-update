@@ -43,3 +43,11 @@ stream.thmz.com:443
 hslive.hsnewsnet.com:80
 45.192.97.170:8880
 hzcm-live.media.hugd.com:80
+124.116.183.146:9901
+live.zzyxxw.com:85
+111.221.137.234:44330
+183.129.255.66:8480
+202.105.239.77:8188
+play.scrstv.com.cn:443
+112.123.243.37:50085
+hls.cntv.lxdns.com:443
