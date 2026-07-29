@@ -35,3 +35,11 @@ tpc.x3322.net:9901
 qmmqvzoz.live.sxmty.com:443
 116.233.67.80:8899
 60.168.105.138:5008
+222.169.85.8:9901
+123.130.84.106:8154
+l.cztvcloud.com:443
+ali-vl.cztv.com:80
+stream.thmz.com:443
+hslive.hsnewsnet.com:80
+45.192.97.170:8880
+hzcm-live.media.hugd.com:80
