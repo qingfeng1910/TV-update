@@ -73,3 +73,6 @@ gslbmgsplive.miguvideo.com:80
 59.35.185.47:8188
 shcm-stream-cf1.stream.264788.xyz:443
 222.134.245.16:9901
+l2fpdktp.live.sxmty.com:443
+182.150.23.74:808
+stream.jmtv.com.cn:443
