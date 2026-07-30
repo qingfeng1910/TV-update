@@ -79,3 +79,10 @@ stream.jmtv.com.cn:443
 125.42.151.53:9901
 zmgd.zyrnet.com:8888
 antvlive.ab5c6921.cdnviet.com:80
+pull-hls-f1.douyinliving.com:80
+182.127.153.16:1234
+116.236.204.18:1234
+116.52.173.95:1234
+183.223.157.33:9901
+cdn9.163189.xyz:80
+223.247.25.227:1234
