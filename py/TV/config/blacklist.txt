@@ -96,3 +96,4 @@ mg.cttv.vip:80
 event.pull.hebtv.com:443
 8.135.27.147:1234
 183.11.239.36:808
+tntgjhjb.live.sxmty.com:443
