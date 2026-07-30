@@ -97,3 +97,7 @@ event.pull.hebtv.com:443
 8.135.27.147:1234
 183.11.239.36:808
 tntgjhjb.live.sxmty.com:443
+file.ysxtv.cn:443
+106.42.108.174:7788
+stream.sun0769.com:443
+tmpstream.hyrtv.cn:80
