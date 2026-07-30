@@ -86,3 +86,5 @@ pull-hls-f1.douyinliving.com:80
 183.223.157.33:9901
 cdn9.163189.xyz:80
 223.247.25.227:1234
+ali-m-l.cztv.com:443
+ali-m-l.cztv.com:80
