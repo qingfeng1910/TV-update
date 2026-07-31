@@ -16,3 +16,7 @@ idclive.hljtv.com:4430
 live.yantaitv.cn:80
 124.88.144.73:1935
 channel.wcrmt.cn:80
+zjtv-wshls.homecdn.com:80
+qmmqvzoz.live.sxmty.com:443
+cdn9.163189.xyz:80
+120.202.73.48:8888
