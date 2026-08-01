@@ -68,3 +68,7 @@ stream.thmz.com:80
 124.116.183.146:9901
 118.193.115.2:9901
 111.8.224.6:9999
+44911.hlsplay.aodianyun.com:443
+live.xysrmt.cn:80
+zjrtv.vip:80
+182.150.23.74:808
