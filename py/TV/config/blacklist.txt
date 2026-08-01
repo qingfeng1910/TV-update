@@ -90,3 +90,5 @@ hls.cntv.lxdns.com:443
 113.120.243.10:7788
 play.jinnantv.top:80
 play.scrstv.com.cn:443
+l.cztvcloud.com:443
+jsmov2.a.yximgs.com:80
