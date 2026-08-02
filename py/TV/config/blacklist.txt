@@ -62,3 +62,4 @@ l.cztvcloud.com:443
 qmmqvzoz.live.sxmty.com:443
 124.116.183.146:9901
 182.150.23.74:808
+play.scrstv.com.cn:443
