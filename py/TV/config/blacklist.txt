@@ -64,3 +64,5 @@ qmmqvzoz.live.sxmty.com:443
 182.150.23.74:808
 play.scrstv.com.cn:443
 my9.ltd:443
+bp-resource-dfl.bestv.cn:80
+bp-resource-dfl.bestv.cn:443
