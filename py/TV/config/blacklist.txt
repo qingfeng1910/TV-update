@@ -48,3 +48,14 @@ hslive.hsnewsnet.com:80
 stream.thmz.com:443
 zjtv-wshls.homecdn.com:80
 ali-vl.cztv.com:80
+116.233.67.80:8899
+111.221.137.234:44330
+piccpndks.v.kcdnvip.com:443
+111.231.6.102:1234
+live.shaoxing.com.cn:80
+182.127.153.128:1234
+218.13.170.98:9901
+222.214.208.34:59901
+dxtx.hntv.tv:443
+l.cztvcloud.com:443
+183.11.239.36:808
