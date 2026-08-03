@@ -83,3 +83,5 @@ hzcm-live.media.hugd.com:80
 e2.woc.iiiya.cn:28888
 182.135.66.163:1888
 182.135.66.163:18888
+tmpstream.hyrtv.cn:80
+115.48.160.81:9901
