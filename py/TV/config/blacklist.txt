@@ -87,3 +87,4 @@ tmpstream.hyrtv.cn:80
 115.48.160.81:9901
 live.xysrmt.cn:80
 123.163.114.121:9901
+tntgjhjb.live.sxmty.com:443
