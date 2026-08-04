@@ -150,3 +150,6 @@ stream1.freetv.fun
 epg.pw
 ali.hlspull.yximgs.com
 182.127.153.128
+111.8.177.168
+hzcm-live.media.hugd.com
+223.78.65.165
