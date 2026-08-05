@@ -105,3 +105,4 @@ live.streamingfast.net:443
 dspdhls.appcoo.com:8888
 play.jinnantv.top:80
 gcalic.v.myalicdn.com:443
+satellitepull.cnr.cn:80
