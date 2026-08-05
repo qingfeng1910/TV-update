@@ -157,3 +157,7 @@ hzcm-live.media.hugd.com
 www.negative.top
 27.12.12.100
 hls.gstv.com.cn
+112.46.105.20
+live.jinchuanrmt.com
+116.52.173.194
+223.247.25.247
