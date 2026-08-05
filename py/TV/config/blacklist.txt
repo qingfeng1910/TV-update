@@ -116,3 +116,5 @@ live.ottiptv.cc:443
 59.39.89.130:60901
 drive.mxmy.net:8888
 radio.pull.hebtv.com:443
+stream.sun0769.com:443
+home.scanflove.com:7788
