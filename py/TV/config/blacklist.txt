@@ -107,3 +107,7 @@ play.jinnantv.top:80
 gcalic.v.myalicdn.com:443
 satellitepull.cnr.cn:80
 cdn9.163189.xyz:80
+m3u8.channel.dzsm.com:443
+59.175.226.142:280
+123.118.55.165:45237
+stream11.jlntv.cn:80
