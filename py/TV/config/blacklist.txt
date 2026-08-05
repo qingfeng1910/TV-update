@@ -118,3 +118,4 @@ drive.mxmy.net:8888
 radio.pull.hebtv.com:443
 stream.sun0769.com:443
 home.scanflove.com:7788
+live.jinchuanrmt.com:90
