@@ -103,3 +103,5 @@ live.streamingfast.net:443
 183.223.157.33:9901
 125.42.151.53:9901
 dspdhls.appcoo.com:8888
+play.jinnantv.top:80
+gcalic.v.myalicdn.com:443
