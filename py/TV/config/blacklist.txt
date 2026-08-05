@@ -111,3 +111,8 @@ m3u8.channel.dzsm.com:443
 59.175.226.142:280
 123.118.55.165:45237
 stream11.jlntv.cn:80
+goodiptv.club:443
+live.ottiptv.cc:443
+59.39.89.130:60901
+drive.mxmy.net:8888
+radio.pull.hebtv.com:443
