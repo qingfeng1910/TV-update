@@ -78,3 +78,12 @@ bp-resource-dfl.bestv.cn:80
 www.negative.top:50000
 59.39.89.130:60901
 zjtv-wshls.homecdn.com:80
+123.118.55.165:45237
+218.13.170.98:9901
+www.goodiptv.club:80
+124.116.183.146:9901
+stream.thmz.com:443
+live.ottiptv.cc:443
+live.wjyanghu.com:80
+goodiptv.club:443
+1yp7hc5p.live.sxmty.com:443
