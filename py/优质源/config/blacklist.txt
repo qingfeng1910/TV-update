@@ -161,3 +161,7 @@ hls.gstv.com.cn
 live.jinchuanrmt.com
 116.52.173.194
 223.247.25.247
+satellitepull.cnr.cn
+hls.ningxiahuangheyun.com
+222.179.42.129
+123.118.55.165
