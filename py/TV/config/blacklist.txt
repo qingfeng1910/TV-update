@@ -69,3 +69,12 @@ qmmqvzoz.live.sxmty.com:443
 my9.ltd:443
 222.169.85.8:9901
 lbyzztfe.live.sxmty.com:80
+shcm-stream-cf1.stream.264788.xyz:443
+139.227.21.22:9901
+bp-resource-dfl.bestv.cn:443
+bp-resource-dfl.bestv.cn:80
+61.178.227.57:9901
+183.11.239.36:808
+www.negative.top:50000
+59.39.89.130:60901
+zjtv-wshls.homecdn.com:80
