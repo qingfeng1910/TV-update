@@ -65,3 +65,7 @@ m3u8.channel.dzsm.com:443
 rihou.cc:555
 qmmqvzoz.live.sxmty.com:443
 222.179.155.21:1935
+218.81.49.34:10010
+my9.ltd:443
+222.169.85.8:9901
+lbyzztfe.live.sxmty.com:80
