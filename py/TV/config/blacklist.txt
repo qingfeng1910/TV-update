@@ -61,3 +61,7 @@ gslbmgsplive.miguvideo.com:80
 116.233.67.80:8899
 play.scrstv.com.cn:443
 l.cztvcloud.com:443
+m3u8.channel.dzsm.com:443
+rihou.cc:555
+qmmqvzoz.live.sxmty.com:443
+222.179.155.21:1935
