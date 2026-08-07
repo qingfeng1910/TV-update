@@ -97,3 +97,17 @@ m3u8file.lstv.org.cn
 nas.hssvm.com
 live.nbs.cn
 lbds.us.ci
+hzcm-live.media.hugd.com
+27.12.12.100
+jwcdnqx.hebyun.com.cn
+223.78.65.165
+218.13.170.98
+epg.pw
+gcalic.v.myalicdn.com
+m3u8.channel.dzsm.com
+stream1.freetv.fun
+8.138.7.223
+218.84.12.186
+tmpstream.hyrtv.cn
+183.223.157.33
+tpc.x3322.net
