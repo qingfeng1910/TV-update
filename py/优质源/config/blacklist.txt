@@ -165,3 +165,6 @@ satellitepull.cnr.cn
 hls.ningxiahuangheyun.com
 222.179.42.129
 123.118.55.165
+182.61.15.47
+l2fpdktp.live.sxmty.com
+shcm-stream-cf1.stream.264788.xyz
