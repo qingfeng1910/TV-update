@@ -89,3 +89,5 @@ goodiptv.club:443
 1yp7hc5p.live.sxmty.com:443
 live.wjyanghu.com:443
 live.streamingfast.net:443
+live.jinchuanrmt.com:90
+ali-vl.cztv.com:80
