@@ -106,3 +106,5 @@ hzcm-live.media.hugd.com:80
 tvfile.jyrmt.cn:80
 218.206.193.218:8888
 tmpstream.hyrtv.cn:80
+satellitepull.cnr.cn:443
+223.78.65.165:9901
