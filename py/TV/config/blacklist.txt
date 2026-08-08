@@ -59,3 +59,6 @@ ali-vl.cztv.com:80
 shcm-stream-cf1.stream.264788.xyz:443
 183.11.239.36:808
 uzoiczhh.live.sxmty.com:80
+tmpstream.hyrtv.cn:80
+zjtv-wshls.homecdn.com:80
+stream.thmz.com:443
