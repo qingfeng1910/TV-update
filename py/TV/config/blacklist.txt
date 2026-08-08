@@ -50,3 +50,4 @@ e2.woc.iiiya.cn:28888
 l.cztvcloud.com:443
 my9.ltd:443
 cm-wshls.homecdn.com:80
+stream8.jlntv.cn:80
