@@ -56,3 +56,4 @@ stream8.jlntv.cn:80
 1yp7hc5p.live.sxmty.com:443
 139.227.21.22:9901
 ali-vl.cztv.com:80
+shcm-stream-cf1.stream.264788.xyz:443
