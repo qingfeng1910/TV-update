@@ -56,3 +56,5 @@ l2fpdktp.live.sxmty.com:443
 hzcm-live.media.hugd.com:80
 www.lwfz.fun:8800
 my9.ltd:443
+112.123.243.37:50085
+183.220.20.17:4321
