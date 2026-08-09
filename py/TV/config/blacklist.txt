@@ -64,3 +64,7 @@ newcntv.qcloudcdn.com:80
 newcntv.qcloudcdn.com:443
 101.66.194.210:9901
 111.8.224.6:9999
+222.134.245.16:9901
+ls.qingting.fm:80
+www.goodiptv.club:80
+play.scrstv.com.cn:443
