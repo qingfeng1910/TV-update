@@ -62,3 +62,5 @@ my9.ltd:443
 183.223.157.33:9901
 newcntv.qcloudcdn.com:80
 newcntv.qcloudcdn.com:443
+101.66.194.210:9901
+111.8.224.6:9999
