@@ -53,3 +53,6 @@ cm-wshls.homecdn.com:80
 l2fpdktp.live.sxmty.com:443
 27.12.12.56:1234
 183.162.104.72:1234
+hzcm-live.media.hugd.com:80
+www.lwfz.fun:8800
+my9.ltd:443
