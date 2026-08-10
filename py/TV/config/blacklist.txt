@@ -62,3 +62,4 @@ zjtv-wshls.homecdn.com:80
 58.56.162.102:4466
 my9.ltd:443
 183.129.255.66:8480
+ls.qingting.fm:443
