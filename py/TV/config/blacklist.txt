@@ -44,3 +44,10 @@ gslbmgsplive.miguvideo.com:80
 58.19.43.66:1111
 123.118.55.165:45237
 hzcm-live.media.hugd.com:80
+live.ahsz.tv:80
+live.yantaitv.cn:80
+3gvod.zjgonline.com.cn:1935
+tvfile.jjrm.org.cn:80
+110.6.137.4:9901
+124.88.144.73:1935
+116.233.67.80:8899
