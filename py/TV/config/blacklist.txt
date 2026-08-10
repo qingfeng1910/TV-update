@@ -73,3 +73,10 @@ shcm-stream-cf1.stream.264788.xyz:443
 120.198.95.220:9901
 36.136.38.87:9901
 zjrtv.vip:80
+111.76.19.115:1234
+rt-rtd.rttv.com:443
+ali-vl.cztv.com:80
+hwapi.yntv.net:443
+222.134.245.16:9901
+stream.thmz.com:443
+vip1.xinketongxun.fun:8082
