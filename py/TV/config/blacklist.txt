@@ -80,3 +80,5 @@ ali-vl.cztv.com:80
 112.123.243.37:50085
 tmpstream.hyrtv.cn:80
 36.136.38.87:9901
+111.231.6.102:1234
+stream.thmz.com:80
