@@ -73,3 +73,7 @@ qmmqvzoz.live.sxmty.com:443
 m3u8.channel.dzsm.com:443
 cdn9.163189.xyz:80
 120.198.86.186:9901
+ali-vl.cztv.com:80
+58.19.43.66:1111
+111.8.224.6:9999
+111.8.242.127:9999
