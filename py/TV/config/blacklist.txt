@@ -89,3 +89,6 @@ stream.thmz.com:443
 113.26.202.52:1299
 live.streamingfast.net:443
 111.8.224.6:9999
+l.cztvcloud.com:80
+218.13.170.98:9901
+171.8.86.73:8009
