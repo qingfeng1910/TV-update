@@ -75,3 +75,8 @@ zjrtv.vip:80
 cdn9.163189.xyz:80
 222.134.245.16:9901
 cm-wshls.homecdn.com:80
+gctxyc.liveplay.myqcloud.com:443
+183.236.43.98:4013
+ali-vl.cztv.com:80
+stream.thmz.com:443
+112.123.243.37:50085
