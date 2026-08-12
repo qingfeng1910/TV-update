@@ -68,3 +68,7 @@ goodiptv.club:443
 l2fpdktp.live.sxmty.com:443
 123.118.53.84:45237
 m3u8.channel.dzsm.com:443
+gcalic.v.myalicdn.com:443
+zjrtv.vip:80
+27.39.122.2:9901
+122.224.58.42:85
