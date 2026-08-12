@@ -72,3 +72,6 @@ gcalic.v.myalicdn.com:443
 zjrtv.vip:80
 27.39.122.2:9901
 122.224.58.42:85
+cdn9.163189.xyz:80
+222.134.245.16:9901
+cm-wshls.homecdn.com:80
