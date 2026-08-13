@@ -58,3 +58,7 @@ bp-resource-dfl.bestv.cn:443
 tntgjhjb.live.sxmty.com:443
 183.222.15.202:4321
 183.236.43.98:4013
+60.168.105.165:5008
+stream.thmz.com:80
+stream9.jlntv.cn:80
+27.39.122.2:9901
