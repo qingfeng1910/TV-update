@@ -71,3 +71,10 @@ qmmqvzoz.live.sxmty.com:443
 my9.ltd:443
 svip.high24-playback.com:443
 vip.ffzy-play7.com:443
+123.118.53.84:45237
+222.179.42.129:8181
+222.169.85.8:9901
+44911.hlsplay.aodianyun.com:443
+123.118.55.165:45237
+119.39.9.8:9901
+1.192.152.76:9901
