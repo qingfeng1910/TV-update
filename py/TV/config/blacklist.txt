@@ -87,3 +87,6 @@ tmpstream.hyrtv.cn:80
 l.cztvcloud.com:80
 153.0.171.163:9901
 l.cztvcloud.com:443
+222.134.245.16:9901
+cdn.jdshipin.com:8880
+hzcm-live.media.hugd.com:80
