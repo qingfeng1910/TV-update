@@ -86,3 +86,5 @@ my9.ltd:443
 106.111.244.12:58099
 event.pull.hebtv.com:80
 l.cztvcloud.com:80
+tmpstream.hyrtv.cn:80
+stream.thmz.com:443
