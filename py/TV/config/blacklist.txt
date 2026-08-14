@@ -79,3 +79,10 @@ stream.thmz.com:80
 ali-vl.cztv.com:80
 p2.vzan.com:443
 play.scrstv.com.cn:443
+tntgjhjb.live.sxmty.com:443
+182.150.23.74:808
+gmxw.7766.org:808
+my9.ltd:443
+106.111.244.12:58099
+event.pull.hebtv.com:80
+l.cztvcloud.com:80
