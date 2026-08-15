@@ -25,3 +25,9 @@ rihou.cc:555
 live.yantaitv.cn:80
 svip.high24-playback.com:443
 vip.ffzy-play7.com:443
+ls.qingting.fm:80
+l2fpdktp.live.sxmty.com:443
+l.cztvcloud.com:443
+223.78.65.165:9901
+124.116.183.146:9901
+139.214.181.174:9901
