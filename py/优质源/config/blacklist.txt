@@ -137,3 +137,6 @@ cm-wshls.homecdn.com
 111.231.6.102
 gslbmgsplive.miguvideo.com
 183.162.104.72
+lbds.us.ci
+139.214.181.174
+36.136.11.230
