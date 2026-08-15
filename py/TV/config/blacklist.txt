@@ -98,3 +98,7 @@ ali-vl.cztv.com:80
 218.13.170.98:9901
 gmxw.7766.org:808
 zjtv-wshls.homecdn.com:80
+171.38.148.188:9003
+139.203.180.9:90
+tmpstream.hyrtv.cn:80
+lbyzztfe.live.sxmty.com:80
