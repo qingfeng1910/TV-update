@@ -91,3 +91,7 @@ bp-resource-dfl.bestv.cn:443
 183.142.200.28:9901
 111.8.242.104:8088
 cm-wshls.homecdn.com:80
+222.169.85.8:9901
+1.94.31.214:80
+stream.thmz.com:80
+ali-vl.cztv.com:80
