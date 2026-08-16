@@ -31,3 +31,6 @@ iptv.4666888.xyz:80
 124.88.144.73:1935
 rihou.cc:555
 3gvod.zjgonline.com.cn:1935
+tpc.x3322.net:9901
+m3u8.channel.dzsm.com:443
+124.116.183.146:9901
