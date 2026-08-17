@@ -48,3 +48,8 @@ play.scrstv.com.cn:443
 222.169.85.8:9901
 39.164.143.66:13994
 l.cztvcloud.com:443
+123.175.209.118:9003
+171.38.148.188:9003
+cm-wshls.homecdn.com:80
+hzcm-live.media.hugd.com:80
+218.13.138.139:59901
