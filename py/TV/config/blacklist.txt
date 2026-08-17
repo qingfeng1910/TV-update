@@ -87,3 +87,5 @@ piccpndks.v.kcdnvip.com:443
 183.11.239.36:808
 218.13.170.98:9901
 45.192.97.170:8880
+44911.hlsplay.aodianyun.com:443
+event.pull.hebtv.com:80
