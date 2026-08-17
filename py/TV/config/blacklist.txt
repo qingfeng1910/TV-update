@@ -56,3 +56,8 @@ hzcm-live.media.hugd.com:80
 my9.ltd:443
 118.193.115.2:9901
 lbyzztfe.live.sxmty.com:80
+bp-resource-dfl.bestv.cn:443
+zjtv-wshls.homecdn.com:80
+bp-resource-dfl.bestv.cn:80
+111.231.6.102:1234
+stream.thmz.com:80
