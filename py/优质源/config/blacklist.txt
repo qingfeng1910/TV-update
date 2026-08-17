@@ -158,3 +158,5 @@ tntgjhjb.live.sxmty.com
 27.39.122.2
 111.59.24.227
 rt-doc.rttv.com
+cdn.jdshipin.com
+39.164.143.66
