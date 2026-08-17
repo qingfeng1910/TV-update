@@ -81,3 +81,9 @@ stream.thmz.com:443
 qmmqvzoz.live.sxmty.com:443
 119.39.9.8:9901
 ali-vl.cztv.com:80
+e2.woc.iiiya.cn:28888
+222.179.42.129:8181
+piccpndks.v.kcdnvip.com:443
+183.11.239.36:808
+218.13.170.98:9901
+45.192.97.170:8880
