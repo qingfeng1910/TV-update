@@ -17,3 +17,11 @@ live.yantaitv.cn:80
 video.epaper.pybtv.cn:8080
 124.116.183.146:9901
 lxfile.lxxcb.cn:80
+l.cztvcloud.com:443
+123.118.55.165:45237
+112.123.243.37:50085
+139.214.181.174:9901
+104.152.209.49:8181
+play.scrstv.com.cn:443
+hzcm-live.media.hugd.com:80
+zjtv-wshls.homecdn.com:80
