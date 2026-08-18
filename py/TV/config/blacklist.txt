@@ -75,3 +75,5 @@ live.zzyxxw.com:2443
 27.39.122.2:9901
 139.227.21.22:9901
 hls.cntv.lxdns.com:443
+123.149.41.183:9901
+tmpstream.hyrtv.cn:80
