@@ -55,3 +55,7 @@ my9.ltd:443
 139.214.181.159:9901
 stream.thmz.com:443
 171.8.86.73:8009
+cdn9.163189.xyz:80
+ali-vl.cztv.com:80
+111.59.24.227:8181
+play.scrstv.com.cn:443
