@@ -93,3 +93,8 @@ n24-cdn-live.ntv.co.jp
 ottrrs.hl.chinamobile.com
 v.hystudio.cn
 sansat.net
+27.39.122.2
+lbds.us.ci
+183.237.95.108
+44911.hlsplay.aodianyun.com
+tmpstream.hyrtv.cn
