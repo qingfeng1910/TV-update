@@ -49,3 +49,5 @@ m3u8.channel.dzsm.com:443
 lmt.scqstv.com:80
 60.168.105.165:5008
 222.128.26.62:4001
+russian-livews.cgtn.com:80
+171.38.148.188:9003
