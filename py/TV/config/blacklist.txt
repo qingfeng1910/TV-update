@@ -73,3 +73,5 @@ bp-resource-dfl.bestv.cn:443
 bp-resource-dfl.bestv.cn:80
 tmpstream.hyrtv.cn:80
 60.222.246.220:19433
+rt-doc.rttv.com:443
+44911.hlsplay.aodianyun.com:443
