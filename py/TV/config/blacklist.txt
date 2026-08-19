@@ -71,3 +71,5 @@ gmxw.7766.org:808
 45.192.97.170:8880
 bp-resource-dfl.bestv.cn:443
 bp-resource-dfl.bestv.cn:80
+tmpstream.hyrtv.cn:80
+60.222.246.220:19433
