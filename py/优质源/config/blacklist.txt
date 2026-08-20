@@ -98,3 +98,7 @@ lbds.us.ci
 183.237.95.108
 44911.hlsplay.aodianyun.com
 tmpstream.hyrtv.cn
+m3u8.channel.dzsm.com
+l.cztvcloud.com
+1yp7hc5p.live.sxmty.com
+116.52.173.151
