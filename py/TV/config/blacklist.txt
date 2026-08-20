@@ -67,3 +67,6 @@ lbyzztfe.live.sxmty.com:80
 shcm-stream-cf1.stream.264788.xyz:443
 113.65.7.6:7088
 liveout.xntv.tv:443
+tmpstream.hyrtv.cn:80
+gmxw.7766.org:808
+183.11.239.36:808
