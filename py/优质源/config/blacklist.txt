@@ -102,3 +102,6 @@ m3u8.channel.dzsm.com
 l.cztvcloud.com
 1yp7hc5p.live.sxmty.com
 116.52.173.151
+live.ottiptv.cc
+tpc.x3322.net
+hzcm-live.media.hugd.com
