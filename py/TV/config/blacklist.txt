@@ -52,3 +52,8 @@ gslbmgsplive.miguvideo.com:80
 223.247.25.235:1234
 182.150.115.21:8030
 27.39.122.2:9901
+111.59.24.227:8181
+play.scrstv.com.cn:443
+stream.thmz.com:443
+222.163.204.42:9003
+lbyzztfe.live.sxmty.com:80
