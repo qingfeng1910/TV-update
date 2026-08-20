@@ -57,3 +57,4 @@ play.scrstv.com.cn:443
 stream.thmz.com:443
 222.163.204.42:9003
 lbyzztfe.live.sxmty.com:80
+111.8.242.127:9999
