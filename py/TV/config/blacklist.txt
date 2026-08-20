@@ -20,3 +20,8 @@ tv.drs.ganzitv.com:8100
 124.88.144.73:1935
 l2fpdktp.live.sxmty.com:443
 idclive.hljtv.com:4430
+qmmqvzoz.live.sxmty.com:443
+220.187.222.240:9901
+123.118.53.84:45237
+44911.hlsplay.aodianyun.com:443
+112.123.243.37:50085
