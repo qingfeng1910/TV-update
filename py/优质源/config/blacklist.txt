@@ -114,3 +114,6 @@ r.jdshipin.com
 111.231.6.102
 gslbmgsplive.miguvideo.com
 222.71.55.147
+218.13.138.139
+p.ytelc.com
+111.8.242.142
