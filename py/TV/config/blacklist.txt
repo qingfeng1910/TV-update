@@ -56,3 +56,8 @@ cm-wshls.homecdn.com:80
 bp-resource-dfl.bestv.cn:80
 stream.thmz.com:443
 www.goodiptv.club:80
+182.37.41.46:8154
+gslbmgsplive.miguvideo.com:80
+119.39.9.8:9901
+118.193.115.2:9901
+183.94.146.79:9901
