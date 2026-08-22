@@ -46,3 +46,9 @@ l.cztvcloud.com:80
 118.193.115.2:9901
 112.123.243.37:50085
 play.scrstv.com.cn:443
+183.6.80.98:9901
+ali-vl.cztv.com:80
+111.8.224.6:9999
+l.cztvcloud.com:443
+171.38.148.188:9003
+l2fpdktp.live.sxmty.com:443
