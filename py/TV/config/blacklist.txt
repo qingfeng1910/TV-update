@@ -74,3 +74,6 @@ cm-wshls.homecdn.com:80
 8.138.7.223:80
 e2.woc.iiiya.cn:28888
 118.77.43.56:8085
+tmpstream.hyrtv.cn:80
+tntgjhjb.live.sxmty.com:443
+36.24.201.56:4022
