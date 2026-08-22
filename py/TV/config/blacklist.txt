@@ -69,3 +69,4 @@ hzcm-live.media.hugd.com:80
 live.ottiptv.cc:443
 171.117.34.130:9999
 cm-wshls.homecdn.com:80
+104.152.209.49:8181
