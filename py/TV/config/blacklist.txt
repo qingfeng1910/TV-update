@@ -67,3 +67,5 @@ my9.ltd:443
 123.118.55.165:45237
 hzcm-live.media.hugd.com:80
 live.ottiptv.cc:443
+171.117.34.130:9999
+cm-wshls.homecdn.com:80
