@@ -59,3 +59,5 @@ hzcm-live.media.hugd.com:80
 27.12.12.101:1234
 gslbmgsplive.miguvideo.com:80
 gmxw.7766.org:808
+183.237.95.108:9901
+l.cztvcloud.com:443
