@@ -71,3 +71,7 @@ stream.thmz.com:80
 epg.pw:443
 111.59.24.227:8181
 bp-resource-dfl.bestv.cn:443
+183.11.239.36:808
+121.230.179.192:8802
+rihou.cc:555
+dxtx.hntv.tv:443
