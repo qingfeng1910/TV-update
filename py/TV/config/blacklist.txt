@@ -75,3 +75,6 @@ bp-resource-dfl.bestv.cn:443
 121.230.179.192:8802
 rihou.cc:555
 dxtx.hntv.tv:443
+115.207.182.178:8889
+221.222.176.205:8888
+stream.thmz.com:443
