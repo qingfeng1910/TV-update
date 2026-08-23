@@ -61,3 +61,13 @@ gslbmgsplive.miguvideo.com:80
 gmxw.7766.org:808
 183.237.95.108:9901
 l.cztvcloud.com:443
+119.39.9.8:9901
+ali-vl.cztv.com:80
+112.249.75.196:9989
+211.92.102.44:9901
+113.25.252.226:9901
+stream.thmz.com:80
+119.166.53.110:9901
+epg.pw:443
+111.59.24.227:8181
+bp-resource-dfl.bestv.cn:443
