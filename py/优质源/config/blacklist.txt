@@ -137,3 +137,4 @@ zjtv-wshls.homecdn.com
 42.94.210.16
 223.247.25.235
 116.236.204.18
+ali-vl.cztv.com
