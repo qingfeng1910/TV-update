@@ -26,3 +26,11 @@ tvfile.jjrm.org.cn:80
 genglei.8866.org:9901
 3gvod.zjgonline.com.cn:1935
 119.131.25.143:9003
+lbyzztfe.live.sxmty.com:80
+play.jinnantv.top:80
+zjtv-wshls.homecdn.com:80
+bp-resource-dfl.bestv.cn:80
+123.118.53.84:45237
+l2fpdktp.live.sxmty.com:443
+bp-resource-dfl.bestv.cn:443
+ali-vl.cztv.com:80
