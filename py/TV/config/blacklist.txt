@@ -56,3 +56,6 @@ bp-resource-dfl.bestv.cn:443
 l.cztvcloud.com:80
 l.cztvcloud.com:443
 111.59.24.227:8181
+27.39.122.2:9901
+play.scrstv.com.cn:443
+222.169.85.8:9901
