@@ -133,3 +133,7 @@ bp-resource-dfl.bestv.cn
 tvfile.lzgbdst.com
 stream1.freetv.fun
 v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com
+zjtv-wshls.homecdn.com
+42.94.210.16
+223.247.25.235
+116.236.204.18
