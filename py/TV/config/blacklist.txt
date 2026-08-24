@@ -52,3 +52,7 @@ bp-resource-dfl.bestv.cn:80
 123.118.53.84:45237
 bp-resource-dfl.bestv.cn:443
 182.150.115.21:8030
+112.27.5.218:9901
+l.cztvcloud.com:80
+l.cztvcloud.com:443
+111.59.24.227:8181
