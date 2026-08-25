@@ -24,3 +24,6 @@ channel.wcrmt.cn:80
 124.165.232.26:8085
 113.65.7.6:7088
 lxfile.lxxcb.cn:80
+bp-resource-dfl.bestv.cn:80
+gslbmgsplive.miguvideo.com:80
+l2fpdktp.live.sxmty.com:443
