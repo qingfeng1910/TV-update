@@ -52,3 +52,5 @@ l.cztvcloud.com:443
 stream.thmz.com:443
 183.237.95.108:9901
 39.87.249.126:8090
+hzcm-live.media.hugd.com:80
+120.238.84.45:9901
