@@ -106,3 +106,10 @@ tpc.x3322.net
 182.150.115.21
 l.cztvcloud.com
 lbds.us.ci
+m3u8.channel.dzsm.com
+112.27.5.218
+113.90.154.189
+russian-livews.cgtn.com
+goodiptv.club
+ali-vl.cztv.com
+www.goodiptv.club
