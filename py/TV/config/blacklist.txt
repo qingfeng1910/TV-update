@@ -39,3 +39,6 @@ live.yantaitv.cn:80
 zjtv-wshls.homecdn.com:80
 31.43.191.125:8080
 epg.pw:443
+8.138.7.223:80
+rt-rtd.rttv.com:443
+124.165.232.26:8082
