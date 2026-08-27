@@ -117,3 +117,7 @@ www.goodiptv.club
 222.179.42.129
 110.154.192.81
 27.12.12.101
+113.9.214.47
+www.cdnstv.com
+live.jinchuanrmt.com
+bp-resource-dfl.bestv.cn
