@@ -122,3 +122,6 @@ www.cdnstv.com
 live.jinchuanrmt.com
 bp-resource-dfl.bestv.cn
 hzcm-live.media.hugd.com
+zjtv-wshls.homecdn.com
+cm-wshls.homecdn.com
+live.ottiptv.cc
