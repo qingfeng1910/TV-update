@@ -45,3 +45,7 @@ rt-rtd.rttv.com:443
 223.78.65.165:9901
 cm-wshls.homecdn.com:80
 l.cztvcloud.com:80
+v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com:443
+e2.woc.iiiya.cn:28888
+61.221.215.25:8800
+liveplay-srs.voc.com.cn:443
