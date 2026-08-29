@@ -125,3 +125,5 @@ hzcm-live.media.hugd.com
 zjtv-wshls.homecdn.com
 cm-wshls.homecdn.com
 live.ottiptv.cc
+live.wanyuannews.com
+8.138.7.223
