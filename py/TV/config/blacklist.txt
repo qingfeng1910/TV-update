@@ -52,3 +52,9 @@ liveplay-srs.voc.com.cn:443
 124.165.232.26:8083
 m3u8.channel.dzsm.com:443
 175.0.71.111:8888
+tencentplaybusiness.gztv.com:443
+tencentplay.gztv.com:80
+ali-vl.cztv.com:80
+myip.pdtvhd.com:443
+117.63.79.182:1234
+tencentplay.gztv.com:443
