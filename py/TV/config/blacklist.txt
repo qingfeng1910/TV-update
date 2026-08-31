@@ -91,3 +91,5 @@ tmpstream.hyrtv.cn:80
 l.cztvcloud.com:443
 nn.7x9d.cn:80
 piccpndks.v.kcdnvip.com:443
+112.249.75.196:9989
+113.221.59.169:4000
