@@ -89,3 +89,5 @@ tmpstream.hyrtv.cn:80
 60.30.67.44:8834
 60.30.67.45:8834
 l.cztvcloud.com:443
+nn.7x9d.cn:80
+piccpndks.v.kcdnvip.com:443
