@@ -150,3 +150,6 @@ myip.pdtvhd.com
 91.247.68.229
 m3u8channel.yunxya.com
 live.ahsz.tv
+223.78.65.165
+101.66.195.43
+44911.hlsplay.aodianyun.com
