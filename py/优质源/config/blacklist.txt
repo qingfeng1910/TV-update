@@ -148,3 +148,5 @@ lbyzztfe.live.sxmty.com
 myip.pdtvhd.com
 124.228.160.210
 91.247.68.229
+m3u8channel.yunxya.com
+live.ahsz.tv
