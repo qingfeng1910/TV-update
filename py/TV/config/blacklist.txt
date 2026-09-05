@@ -138,3 +138,4 @@ p2.ioioz.com:80
 116.233.67.80:8899
 dassby.qqff.top:99
 cdn6.163189.xyz:80
+gmxw.7766.org:808
