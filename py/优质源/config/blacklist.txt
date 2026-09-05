@@ -153,3 +153,6 @@ live.ahsz.tv
 223.78.65.165
 101.66.195.43
 44911.hlsplay.aodianyun.com
+gcalic.v.myalicdn.com
+110.154.192.90
+ali-vl.cztv.com
