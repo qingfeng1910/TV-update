@@ -142,3 +142,11 @@ gmxw.7766.org:808
 117.63.79.167:1234
 www.wxhcgbds.com:8081
 61.136.172.236:9901
+183.220.107.138:4022
+223.86.170.98:4500
+112.46.105.20:8009
+live.iwcmt.cn:90
+ali-m-l.cztv.com:80
+gcwbndali.v.myalicdn.com:443
+ali-m-l.cztv.com:443
+test1.live.sdetv.com.cn:443
