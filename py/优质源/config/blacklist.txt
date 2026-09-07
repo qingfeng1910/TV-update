@@ -101,3 +101,8 @@ r.jdshipin.com
 russian-livews.cgtn.com
 123.130.84.106
 gslbmgsplive.miguvideo.com
+8.138.7.223
+122.224.58.42
+cdn9.163189.xyz
+ali-vl.cztv.com
+live.qthnews.org.cn
