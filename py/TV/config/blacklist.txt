@@ -166,3 +166,5 @@ live.shaoxing.com.cn:80
 111.76.19.251:1234
 rt-doc.rttv.com:443
 223.247.25.228:1234
+r.jdshipin.com:80
+live.spccmc.com:90
