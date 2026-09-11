@@ -136,3 +136,5 @@ bztv.tvbus.cc
 207.56.13.146
 116.236.204.18
 8.135.27.147
+119.39.9.8
+live.chinacert.cftest5.cn
