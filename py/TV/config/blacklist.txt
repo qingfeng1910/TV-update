@@ -171,3 +171,4 @@ live.spccmc.com:90
 116.52.173.223:1234
 125.42.148.178:9901
 tylive.kan0512.com:443
+play.yunxya.com:443
