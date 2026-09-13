@@ -141,3 +141,5 @@ live.chinacert.cftest5.cn
 183.237.95.108
 tylive.kan0512.com
 txmov2.a.kwimgs.com
+lbds.us.ci
+ali-m-l.cztv.com
