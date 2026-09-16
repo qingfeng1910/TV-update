@@ -193,3 +193,5 @@ satellitepull.cnr.cn:80
 live.zzyxxw.com:2443
 101.66.198.207:9901
 58.56.162.102:4466
+110.154.192.86:7788
+jsmov2.a.yximgs.com:80
