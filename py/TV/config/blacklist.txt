@@ -190,3 +190,4 @@ live.wjyanghu.com:80
 satellitepull.cnr.cn:80
 111.193.232.210:7089
 123.163.114.241:9901
+live.zzyxxw.com:2443
