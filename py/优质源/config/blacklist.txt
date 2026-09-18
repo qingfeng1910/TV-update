@@ -132,3 +132,6 @@ zjtv-wshls.homecdn.com
 111.231.6.102
 m3u8.channel.dzsm.com
 play.scrstv.com.cn
+222.169.85.8
+tntgjhjb.live.sxmty.com
+31.43.191.125
