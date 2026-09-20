@@ -203,3 +203,5 @@ jsmov2.a.yximgs.com:80
 116.52.173.191:1234
 live.wjyanghu.com:443
 111.76.19.218:1234
+play.jinnantv.top:80
+hlsal-ldvt.qing.mgtv.com:80
