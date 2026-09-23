@@ -231,3 +231,4 @@ english-livetx.cgtn.com:443
 gctxyc.liveplay.myqcloud.com:443
 153.0.171.163:9901
 125.120.16.95:3000
+rbmn-live.akamaized.net:80
