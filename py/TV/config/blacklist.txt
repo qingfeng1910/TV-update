@@ -232,3 +232,5 @@ gctxyc.liveplay.myqcloud.com:443
 153.0.171.163:9901
 125.120.16.95:3000
 rbmn-live.akamaized.net:80
+219.157.138.96:1234
+www.goodiptv.club:80
