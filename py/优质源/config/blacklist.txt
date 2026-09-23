@@ -123,3 +123,7 @@ l.cztvcloud.com
 8.138.7.223
 222.169.85.8
 hzcm-live.media.hugd.com
+cdn9.163189.xyz
+ali-vl.cztv.com
+cm-wshls.homecdn.com
+1yp7hc5p.live.sxmty.com
