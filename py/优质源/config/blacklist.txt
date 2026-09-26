@@ -132,3 +132,7 @@ tntgjhjb.live.sxmty.com
 stream.appwuhan.com
 101.66.194.117
 223.78.65.165
+event.pull.hebtv.com
+101.66.194.125
+112.30.73.119
+117.72.81.170
