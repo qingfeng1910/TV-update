@@ -103,3 +103,7 @@ p2.bdstatic.com
 hls.gstv.com.cn
 222.169.85.8
 cdn9.163189.xyz
+nn.7x9d.cn
+live.ottiptv.cc
+epg.pw
+ythls.armelin.one
