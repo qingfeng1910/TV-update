@@ -112,3 +112,6 @@ newcntv.qcloudcdn.com
 112.109.218.254
 www.cdnstv.com
 ali.hlspull.yximgs.com
+zjtv-wshls.homecdn.com
+ali-vl.cztv.com
+txmov2.a.kwimgs.com
