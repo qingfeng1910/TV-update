@@ -257,3 +257,5 @@ jrlive.jrntv.com:80
 ythls.armelin.one:443
 123.117.173.7:8118
 112.109.218.254:32
+liveout.btzx.com.cn:443
+1.24.221.16:7788
