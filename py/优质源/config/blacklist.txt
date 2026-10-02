@@ -117,3 +117,7 @@ ali-vl.cztv.com
 txmov2.a.kwimgs.com
 1.24.221.16
 m3u8.channel.dzsm.com
+gcalic.v.myalicdn.com
+115.171.53.99
+cm-wshls.homecdn.com
+182.85.163.86
