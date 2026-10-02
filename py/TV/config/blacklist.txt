@@ -266,3 +266,4 @@ liveout.btzx.com.cn:443
 182.85.163.86:1234
 114.240.111.49:7788
 live.jinchuanrmt.com:90
+live.zohi.tv:80
