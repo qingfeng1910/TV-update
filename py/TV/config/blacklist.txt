@@ -270,3 +270,4 @@ live.zohi.tv:80
 smzb.bypbwxx.top:80
 114.102.131.146:5080
 118.113.40.32:1234
+hkstv.tv:443
