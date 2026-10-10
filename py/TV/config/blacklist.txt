@@ -275,3 +275,4 @@ hkstv.tv:443
 182.46.8.235:7788
 58.35.95.16:20009
 file.ysxtv.cn:80
+hslive.hsnewsnet.com:80
