@@ -131,3 +131,6 @@ live.jinchuanrmt.com
 epg.pw
 zb-live.ynurl.com
 183.11.239.36
+play.scrstv.com.cn
+alimov2.a.kwimgs.com
+live.chinacert.cftest5.cn
