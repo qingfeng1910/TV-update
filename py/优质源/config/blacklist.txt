@@ -134,3 +134,4 @@ zb-live.ynurl.com
 play.scrstv.com.cn
 alimov2.a.kwimgs.com
 live.chinacert.cftest5.cn
+118.113.40.5
