@@ -279,3 +279,6 @@ hslive.hsnewsnet.com:80
 118.113.40.5:1234
 stream.jmtv.com.cn:443
 hls-qhmh.lanzhousobey.cn:443
+116.230.54.58:33988
+101.66.198.93:9901
+101.66.195.243:9901
