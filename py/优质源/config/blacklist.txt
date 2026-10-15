@@ -122,3 +122,6 @@ p2.ioioz.com
 8.138.7.223
 stream8.jlntv.cn
 l.cztvcloud.com
+101.66.195.137
+101.66.195.192
+31.43.191.125
