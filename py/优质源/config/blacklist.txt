@@ -95,3 +95,14 @@ channel.wcrmt.cn
 122.228.73.138
 live.nbs.cn
 l2fpdktp.live.sxmty.com
+8.138.7.223
+bp-resource-dfl.bestv.cn
+live.shaoxing.com.cn
+tntgjhjb.live.sxmty.com
+rt-esp.rttv.com
+lbds.us.ci
+ali.hlspull.yximgs.com
+222.169.85.8
+101.66.195.192
+101.66.195.137
+m3u8.channel.dzsm.com
