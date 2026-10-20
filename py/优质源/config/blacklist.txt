@@ -106,3 +106,5 @@ ali.hlspull.yximgs.com
 101.66.195.192
 101.66.195.137
 m3u8.channel.dzsm.com
+119.39.9.8
+223.78.65.165
