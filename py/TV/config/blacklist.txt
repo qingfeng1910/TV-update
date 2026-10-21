@@ -304,3 +304,5 @@ bztv.tvbus.cc:8081
 61.145.188.90:60033
 74.91.26.218:82
 www.guzhenm.com:7001
+bp-livetytv.bestv.cn:80
+219.159.147.195:9901
