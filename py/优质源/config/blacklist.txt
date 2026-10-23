@@ -134,3 +134,7 @@ ls.qingting.fm
 111.59.139.82
 live.ahsz.tv
 v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com
+112.103.141.123
+live.gdtv.ah.cn
+hls.ningxiahuangheyun.com
+173.208.212.130
