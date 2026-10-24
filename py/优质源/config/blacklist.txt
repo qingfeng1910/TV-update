@@ -140,3 +140,4 @@ hls.ningxiahuangheyun.com
 173.208.212.130
 44911.hlsplay.aodianyun.com
 zjtv-wshls.homecdn.com
+ali-vl.cztv.com
