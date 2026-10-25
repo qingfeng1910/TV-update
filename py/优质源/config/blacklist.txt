@@ -106,3 +106,7 @@ m3u8.channel.dzsm.com
 cdn9.163189.xyz
 lbds.us.ci
 qmmqvzoz.live.sxmty.com
+ali.hlspull.yximgs.com
+8.138.7.223
+tpc.x3322.net
+hzcm-live.media.hugd.com
