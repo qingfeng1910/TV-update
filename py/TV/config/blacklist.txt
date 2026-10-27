@@ -312,3 +312,4 @@ live.gdtv.ah.cn:443
 live.metshop.top:443
 120.40.39.246:352
 123.120.6.99:4022
+stream3.jlntv.cn:80
