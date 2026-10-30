@@ -128,3 +128,6 @@ live.wjyanghu.com
 118.122.144.115
 rt-ger.rttv.com
 live.jinchuanrmt.com
+223.78.65.165
+txmov2.a.kwimgs.com
+alimov2.a.kwimgs.com
