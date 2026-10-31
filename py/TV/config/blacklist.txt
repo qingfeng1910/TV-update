@@ -317,3 +317,4 @@ m3u8.channel.wsrtv.com.cn:80
 zb.gxlbamc.com:1935
 live.ottiptv.cc:443
 hls.nntv.cn:80
+svip.high24-playback.com:443
