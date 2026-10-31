@@ -318,3 +318,4 @@ zb.gxlbamc.com:1935
 live.ottiptv.cc:443
 hls.nntv.cn:80
 svip.high24-playback.com:443
+stream.snrtv.com:80
