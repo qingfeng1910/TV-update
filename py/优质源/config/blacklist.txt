@@ -105,3 +105,13 @@ m3u8channel-yj.yunxya.com
 ali.hlspull.yximgs.com
 tpc.x3322.net
 44911.hlsplay.aodianyun.com
+cdn6.163189.xyz
+cdn8.163189.xyz
+cdn.163189.xyz
+lbds.us.ci
+epg.pw
+cdn2.163189.xyz
+cdn5.163189.xyz
+tntgjhjb.live.sxmty.com
+112.103.141.123
+bp-resource-dfl.bestv.cn
