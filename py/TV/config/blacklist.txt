@@ -321,3 +321,5 @@ svip.high24-playback.com:443
 stream.snrtv.com:80
 live1-fuyun.fjtv.net:443
 115.48.161.74:9901
+112.103.141.170:1234
+vip.ffzy-play.com:443
