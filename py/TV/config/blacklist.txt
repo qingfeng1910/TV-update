@@ -319,3 +319,5 @@ live.ottiptv.cc:443
 hls.nntv.cn:80
 svip.high24-playback.com:443
 stream.snrtv.com:80
+live1-fuyun.fjtv.net:443
+115.48.161.74:9901
