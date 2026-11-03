@@ -128,3 +128,7 @@ l.cztvcloud.com
 123.53.42.5
 119.119.63.189
 42.94.209.140
+cm-wshls.homecdn.com
+live.ahsz.tv
+live.metshop.top
+ali-vl.cztv.com
