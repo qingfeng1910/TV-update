@@ -324,3 +324,5 @@ live1-fuyun.fjtv.net:443
 112.103.141.170:1234
 vip.ffzy-play.com:443
 cdn2.163189.xyz:80
+lxajh.top:80
+183.129.255.66:8480
