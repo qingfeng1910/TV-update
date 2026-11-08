@@ -123,3 +123,4 @@ p2.ioioz.com
 cm-wshls.homecdn.com
 118.122.144.115
 222.71.55.147
+live.streamingfast.net
