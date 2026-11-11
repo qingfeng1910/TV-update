@@ -150,3 +150,4 @@ live.wjyanghu.com
 173.208.212.130
 112.85.93.7
 gslbmgsplive.miguvideo.com
+txmov2.a.kwimgs.com
