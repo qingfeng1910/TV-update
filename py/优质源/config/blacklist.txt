@@ -151,3 +151,4 @@ live.wjyanghu.com
 112.85.93.7
 gslbmgsplive.miguvideo.com
 txmov2.a.kwimgs.com
+bztv.tvbus.cc
