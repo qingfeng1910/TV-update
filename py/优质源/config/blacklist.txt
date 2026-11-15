@@ -124,3 +124,8 @@ hzcm-live.media.hugd.com
 198.204.228.26
 173.208.212.130
 ali-vl.cztv.com
+36.24.254.195
+116.52.173.150
+49.70.189.149
+36.24.254.207
+l2fpdktp.live.sxmty.com
