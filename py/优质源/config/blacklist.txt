@@ -153,3 +153,4 @@ tmpstream.hyrtv.cn
 218.13.139.26
 play.jinnantv.top
 118.193.115.2
+play.scrstv.com.cn
