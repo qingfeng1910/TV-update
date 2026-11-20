@@ -106,3 +106,7 @@ l2fpdktp.live.sxmty.com
 112.27.5.218
 113.124.186.195
 27.12.12.40
+live.wjyanghu.com
+ali.hlspull.yximgs.com
+nn.7x9d.cn
+cm-wshls.homecdn.com
