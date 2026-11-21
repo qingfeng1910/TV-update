@@ -110,3 +110,5 @@ live.wjyanghu.com
 ali.hlspull.yximgs.com
 nn.7x9d.cn
 cm-wshls.homecdn.com
+183.129.255.66
+stream.sun0769.com
