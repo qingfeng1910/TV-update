@@ -119,3 +119,5 @@ hzcm-live.media.hugd.com
 223.78.65.165
 8.138.7.223
 58.56.162.102
+live.streamingfast.net
+xiangxiws.vip
